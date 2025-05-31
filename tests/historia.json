@@ -1,0 +1,17 @@
+[
+    {
+        "question": "¿Quién descubrió América?1",
+        "options": ["Cristóbal Colón", "Napoleón", "Simón Bolívar", "Julio César"],
+        "answer_index": 0
+    },
+    {
+        "question": "¿Quién descubrió América?2",
+        "options": ["Cristóbal Colón", "Napoleón", "Simón Bolívar", "Julio César"],
+        "answer_index": 0
+    },
+    {
+        "question": "¿Quién descubrió América?3",
+        "options": ["Cristóbal Colón", "Napoleón", "Simón Bolívar", "Julio César"],
+        "answer_index": 0
+    }
+]

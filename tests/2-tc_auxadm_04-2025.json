@@ -10,7 +10,7 @@
         "answer_index": 0
     },
     {
-        "number": 1,
+        "number": 2,
         "question": "Si se desea revisar la ortografía y gramática del documento ¿Qué herramienta se debe usar? ",
         "options": [
             "Vista>Modo de lectura.",
@@ -20,7 +20,7 @@
         "answer_index": 0
     },
     {
-        "number": 2,
+        "number": 3,
         "question": "El Título III de la ConsƟtución Española de 1978, Ɵene la siguiente rúbrica: ",
         "options": [
             "Del Gobierno y de la Administración.",
@@ -30,7 +30,7 @@
         "answer_index": 0
     },
     {
-        "number": 2,
+        "number": 4,
         "question": "¿Qué elemento debe utilizarse para insertar un logotipo en el encabezado del documento? ",
         "options": [
             "Diseño> Insertar imagen.",
@@ -40,7 +40,7 @@
         "answer_index": 0
     },
     {
-        "number": 3,
+        "number": 5,
         "question": "De acuerdo con el arơculo 6 de la ConsƟtución Española de 1978, los parƟdos políƟcos: ",
         "options": [
             "Expresan el pluralismo políƟco, concurren a la formación y manifestación de la voluntad popular.",
@@ -50,7 +50,7 @@
         "answer_index": 0
     },
     {
-        "number": 3,
+        "number": 6,
         "question": "Si se quiere insertar un salto de página tras la palabra “recursos” para que los objetivos principales queden en una segunda página ¿Qué debemos hacer? ",
         "options": [
             "Situar el cursor tras el punto de la palabra “recursos”>Insertar>Página en blanco.",
@@ -60,7 +60,7 @@
         "answer_index": 0
     },
     {
-        "number": 4,
+        "number": 7,
         "question": "Están sujetos a la ConsƟtución y al resto del ordenamiento jurídico: ",
         "options": [
             "Los ciudadanos y los poderes públicos.",
@@ -70,7 +70,7 @@
         "answer_index": 0
     },
     {
-        "number": 4,
+        "number": 8,
         "question": "Si queremos activar el formato negrita en la primera fila ¿Cómo debemos actuar? ",
         "options": [
             "Seleccionar la primera fila>Diseño de tabla>Negrita.",
@@ -80,7 +80,7 @@
         "answer_index": 0
     },
     {
-        "number": 5,
+        "number": 9,
         "question": "Conforme se dispone en el arơculo 140 de la ConsƟtución Española de 1978: ",
         "options": [
             "Los alcaldes serán elegidos por los Concejales o por los vecinos.",
@@ -90,7 +90,7 @@
         "answer_index": 0
     },
     {
-        "number": 5,
+        "number": 10,
         "question": "Si deseamos crear un estilo de tabla para nuestra tabla ¿Que herramienta se debe utilizar? ",
         "options": [
             "Seleccionar la tabla>Inicio>Estilos.",
@@ -100,7 +100,7 @@
         "answer_index": 0
     },
     {
-        "number": 6,
+        "number":11,
         "question": "La autonomía municipal implica, conforme se recoge la Ley 7/1985, de 2 de abril, reguladora de las bases de régimen local, que los municipios asumen: ",
         "options": [
             "Competencias propias.",
@@ -110,7 +110,7 @@
         "answer_index": 0
     },
     {
-        "number": 6,
+        "number": 12,
         "question": "Ahora deseamos crear un sombreado para la primera fila ¿Qué debemos hacer? ",
         "options": [
             "Seleccionar la primera fila>Insertar>Sombreado.",
@@ -120,7 +120,7 @@
         "answer_index": 0
     },
     {
-        "number": 7,
+        "number": 13,
         "question": "Conforme se dispone en la ConsƟtución Española, las haciendas locales se nutrirán fundamentalmente:",
         "options": [
             "De parƟcipación en los tributos del Estado y de las Comunidades Autónomas.",
@@ -133,7 +133,7 @@
         "answer_index": 0
     },
     {
-        "number": 7,
+        "number": 14,
         "question": "Ahora debemos alinear las columnas 2, 3 y 4 a la derecha ¿Cómo se debe proceder? ",
         "options": [
             "Seleccionar las columnas 2, 3 y 4>Inicio>Justificar a la derecha.",
@@ -143,7 +143,7 @@
         "answer_index": 0
     },
     {
-        "number": 8,
+        "number": 15,
         "question": "Si queremos que el informe que contiene nuestra tabla contenga una marca de agua tipo “confidencial” ¿Cómo se debe actuar? ",
         "options": [
             "Seleccionar Insertar>Marca de agua>Confidencial.",
@@ -153,7 +153,7 @@
         "answer_index": 0
     },
     {
-        "number": 9,
+        "number": 16,
         "question": "La organización territorial del Estado se arƟcula, según se recoge en el Título VIII de la ConsƟtución Española. ",
         "options": [
             "Solamente en Comunidades Autónomas.",
@@ -181,7 +181,7 @@
         "answer_index": 0
     },
     {
-        "number": 9,
+        "number": 17,
         "question": "Se requiere insertar una nota detrás de “XXXX0049” con el texto “referencia oculta por seguridad”, para visualizar al ﬁnal de la página ¿Qué herramienta se debe uƟlizar? ",
         "options": [
             "Cursor detrás del “9”>Referencias>Insertar nota al ﬁnal>Escribir texto de la nota.",
@@ -191,7 +191,7 @@
         "answer_index": 0
     },
     {
-        "number": 10,
+        "number": 18,
         "question": "Se desea dar un formato de viñeta a los detalles del cobro reclamado ¿Cómo debemos actuar? ",
         "options": [
             "Seleccionar todo el texto de los detalles del cobro reclamado>Inicio>Viñetas.",
@@ -210,7 +210,7 @@
         "answer_index": 0
     },
     {
-        "number": 14,
+        "number": 19,
         "question": "¿Cuál de estas funciones habría que uƟlizar en la celda A1 para que cada vez que se abra la hoja de calculo aparezca la fecha actual con formato fecha? ",
         "options": [
             "=HOY()",
@@ -220,7 +220,7 @@
         "answer_index": 0
     },
     {
-        "number": 15,
+        "number": 20,
         "question": "¿Cómo podemos aplicar formato que añada decimales y el símbolo de € en la celda C2? ",
         "options": [
             "Menú formato de celdas, Vista, y seleccionar categoría número indicando dos decimales. El símbolo de € sale automáƟcamente.",
@@ -230,7 +230,7 @@
         "answer_index": 0
     },
     {
-        "number": 16,
+        "number": 21,
         "question": "Los Tenientes de Alcalde existen, conforme se recoge en la Ley 7/1985, de 2 de abril, reguladora de las Bases del Régimen Local:",
         "options": [
             "Solamente en los municipios de gran población regulados en el Título X de la 7/1985, de 2 de abril.",
@@ -240,7 +240,7 @@
         "answer_index": 0
     },
     {
-        "number": 16,
+        "number": 22,
         "question": "¿Qué formula tenemos que poner en la celda F2 para obtener la suma de los ingresos de los cuatro trimestres? ",
         "options": [
             "= A2 + B2 + C2+ D2",
@@ -250,7 +250,7 @@
         "answer_index": 0
     },
     {
-        "number": 17,
+        "number": 23,
         "question": "De acuerdo con lo dispuesto en la Ley 7/1985, de 2 de abril, Reguladora de las Bases de Régimen Local, están obligados a inscribirse en el Padrón del municipio: ",
         "options": [
             "Solo están obligados los residentes extranjeros que residan en el municipio, a efectos de control de la inmigración.",
@@ -260,7 +260,7 @@
         "answer_index": 0
     },
     {
-        "number": 17,
+        "number": 24,
         "question": "¿Cómo podemos cambiar el color del texto de la celda C5? ",
         "options": [
             "Menú formato de celdas, relleno y seleccionar el color deseado.",
@@ -270,7 +270,7 @@
         "answer_index": 0
     },
     {
-        "number": 18,
+        "number": 25,
         "question": "Exigir la prestación y, en su caso, el establecimiento del correspondiente servicio público, en el supuesto de consƟtuir una competencia municipal propia de carácter obligatorio, conforme se dispone en la Ley 7/1985, de 2 de abril, reguladora de las Bases del Régimen Local, es un derecho que: ",
         "options": [
             "Pueden exigir los vecinos que acrediten el empadronamiento en el municipio por más de diez años.",
@@ -280,7 +280,7 @@
         "answer_index": 0
     },
     {
-        "number": 19,
+        "number": 26,
         "question": "Los acuerdos de las corporaciones locales se adoptan, como regla general: ",
         "options": [
             "Por mayoría absoluta.",
@@ -290,7 +290,7 @@
         "answer_index": 0
     },
     {
-        "number": 20,
+        "number": 27,
         "question": "De acuerdo con lo dispuesto en el arơculo 21 de Ley 7/1985, de 2 de abril, reguladora de las Bases del Régimen Local, el Alcalde ostenta las siguientes atribuciones:",
         "options": [
             "Aprobar las ordenanzas y reglamentos municipales.",
@@ -300,7 +300,7 @@
         "answer_index": 0
     },
     {
-        "number": 21,
+        "number": 28,
         "question": "Los ayuntamientos exigirán, de acuerdo con el Real Decreto Legislativo 2/2004, de 5 de marzo, por el que se aprueba el Texto refundido de la Ley Reguladora de las Haciendas Locales y las disposiciones que la desarrollan, los siguientes impuestos:",
         "options": [
             "Impuesto sobre Bienes Inmuebles, Impuesto sobre Actividades Económicas, Impuesto sobre Vehículos de Tracción Mecánica, Impuesto sobre Construcciones, Instalaciones y Obras e Impuesto sobre el Incremento de Valor de los Terrenos de Naturaleza Urbana.",
@@ -310,7 +310,7 @@
         "answer_index": 0
     },
     {
-        "number": 22,
+        "number": 29,
         "question": "El Impuesto sobre Bienes Inmuebles es un tributo:",
         "options": [
             "Directo de carácter real que grava el valor de los bienes inmuebles.",
@@ -320,7 +320,7 @@
         "answer_index": 0
     },
     {
-        "number": 23,
+        "number": 30,
         "question": "En relación con el Impuesto sobre Bienes Inmuebles, constituye el hecho imponible del impuesto la titularidad de los siguientes derechos:",
         "options": [
             "Sobre los bienes inmuebles rústicos y urbanos.",
@@ -330,7 +330,7 @@
         "answer_index": 0
     },
     {
-        "number": 24,
+        "number": 31,
         "question": "En cuanto a la cuota tributaria, el artículo 24.c) del Real Decreto Legislativo 2/2004, de 5 de marzo, por el que se aprueba el Texto refundido de la Ley Reguladora de las Haciendas Locales, prevé que el importe de las tasas previstas por la utilización privativa o el aprovechamiento especial del dominio público local será el 1,5 por ciento de los ingresos brutos procedentes de la facturación de las empresas cuando se trate de: ",
         "options": [
             "La fijación de importes de las tasas en cualquier procedimiento de licitación pública para todas las autorizaciones, concesiones o adjudicaciones.",
@@ -340,7 +340,7 @@
         "answer_index": 0
     },
     {
-        "number": 25,
+        "number": 32,
         "question": "¿A qué hace referencia la siguiente definición contenida en el Real Decreto Legislativo 2/2004, de 5 de marzo, por el que se aprueba el Texto refundido de la Ley Reguladora de las Haciendas Locales? “La obtención por el sujeto pasivo de un beneficio o de un aumento de valor de sus bienes como consecuencia de la realización de obras públicas o del establecimiento o ampliación de servicios públicos, de carácter local, por las entidades respectivas.” ",
         "options": [
             "Al hecho imponible de las contribuciones especiales.",
@@ -350,7 +350,7 @@
         "answer_index": 0
     },
     {
-        "number": 26,
+        "number": 33,
         "question": "Las cantidades recaudadas por contribuciones especiales sólo podrán destinarse a sufragar los gastos de la obra o del servicio por cuya razón se hubiesen exigido. ",
         "options": [
             "Correcto.",
@@ -360,7 +360,7 @@
         "answer_index": 0
     },
     {
-        "number": 27,
+        "number": 34,
         "question": "¿Qué son competencias propias según el artículo 33 de la Ley 22/2006, de 4 de julio, de Capitalidad y de Régimen Especial de Madrid?",
         "options": [
             "Solo las asignadas en calidad de tales a los municipios en general y a los de gran población por la legislación de régimen local.",
@@ -370,7 +370,7 @@
         "answer_index": 0
     },
     {
-        "number": 28,
+        "number": 35,
         "question": "Según el artículo 34.2 de la Ley 22/2006, de 4 de julio, de Capitalidad y de Régimen Especial de Madrid, la encomienda de gestión de determinadas actividades de carácter material, técnico o de servicios, derivadas de competencias administrativas de la Administración General del Estado y de la Comunidad de Madrid, de conformidad con lo dispuesto en la legislación estatal y autonómica que resulte de aplicación: ",
         "options": [
             "Requiere la aceptación por el Pleno y se formaliza mediante convenio suscrito al efecto.",
@@ -380,7 +380,7 @@
         "answer_index": 0
     },
     {
-        "number": 29,
+        "number": 36,
         "question": "En materia de seguridad pública, ¿Tiene el Ayuntamiento de la Ciudad de Madrid según el artículo 35.1 de la Ley 22/2006, de 4 de julio, de Capitalidad y de Régimen Especial de Madrid competencias para la protección y custodia de autoridades? ",
         "options": [
             "Si",
@@ -390,7 +390,7 @@
         "answer_index": 0
     },
     {
-        "number": 30,
+        "number": 37,
         "question": "Una de las competencias económicas de la secretaría general del Pleno es la de disponer de gastos corrientes hasta una cuantía de: ",
         "options": [
             "100.000 €",
@@ -400,7 +400,7 @@
         "answer_index": 0
     },
     {
-        "number": 31,
+        "number": 38,
         "question": "Funcionamiento del Pleno. Las sesiones del Pleno podrán ser: ",
         "options": [
             "Ordinarias y extraordinarias.",
@@ -410,7 +410,7 @@
         "answer_index": 0
     },
     {
-        "number": 32,
+        "number": 39,
         "question": "La Administración del Ayuntamiento de Madrid se organiza y actúa, con sometimiento pleno a la Ley y al Derecho, de acuerdo con los principios de: ",
         "options": [
             "Jerarquía, eficacia, desconcentración y servicio al ciudadano.",
@@ -420,7 +420,7 @@
         "answer_index": 0
     },
     {
-        "number": 33,
+        "number": 40,
         "question": "El titular de Tesorería será nombrado por:",
         "options": [
             "La Junta de Gobierno.",
@@ -430,7 +430,7 @@
         "answer_index": 0
     },
     {
-        "number": 34,
+        "number": 41,
         "question": "Según el Reglamento Orgánico del Gobierno y de la Administración del Ayuntamiento de Madrid, ¿cuál es el número máximo de Áreas de Gobierno que pueden conformar la Administración del Ayuntamiento de Madrid? ",
         "options": [
             "8.",
@@ -443,7 +443,7 @@
         "answer_index": 0
     },
     {
-        "number": 36,
+        "number": 42,
         "question": "Según el Reglamento Orgánico del Gobierno y de la Administración del Ayuntamiento de Madrid, ¿a quién corresponde la determinación del número, denominación y atribuciones de las Áreas de Gobierno en el Ayuntamiento de Madrid? ",
         "options": [
             "Al Alcalde.",
@@ -453,7 +453,7 @@
         "answer_index": 0
     },
     {
-        "number": 37,
+        "number": 43,
         "question": "El Coordinador del Distrito, conforme se dispone en el Reglamento Orgánico de los Distritos: ",
         "options": [
             "Tiene rango de Director General.",
@@ -463,7 +463,7 @@
         "answer_index": 0
     },
     {
-        "number": 38,
+        "number": 44,
         "question": "Corresponde al Concejal Presidente del Distrito, de acuerdo con el Reglamento Orgánico de los Distritos: ",
         "options": [
             "La dirección, planiﬁcación y coordinación de los servicios administraƟvos del distrito cuya jefatura inmediata ostenta.",
@@ -473,7 +473,7 @@
         "answer_index": 0
     },
     {
-        "number": 39,
+        "number": 45,
         "question": "El Secretario del Distrito, conforme se dispone en el Reglamento Orgánico de los Distritos: ",
         "options": [
             "Su nombramiento se realizará por la Junta Municipal del Distrito, previo debate entre los grupos municipales, entre funcionarios de carrera del subgrupo A1.",
@@ -483,7 +483,7 @@
         "answer_index": 0
     },
     {
-        "number": 40,
+        "number": 46,
         "question": "Conforme se dispone en el Reglamento Orgánico de los Distritos los vocales vecinos forman parte de la Junta Municipal del Distrito y … ",
         "options": [
             "Son nombrados por el Concejal Presidente del Distrito, a propuesta de los grupos políƟcos que componen el Pleno del Ayuntamiento de Madrid.",
@@ -493,7 +493,7 @@
         "answer_index": 0
     },
     {
-        "number": 41,
+        "number": 47,
         "question": "¿A quién corresponde aprobar las ordenanzas? ",
         "options": [
             "Al Pleno",
@@ -503,7 +503,7 @@
         "answer_index": 0
     },
     {
-        "number": 42,
+        "number": 48,
         "question": "Cual de estas NO es una forma de intervención de las enƟdades locales en la acƟvidad de los ciudadanos conforme a lo dispuesto en el arơculo 84 de la LRBRL: ",
         "options": [
             "Ordenanzas",
@@ -513,7 +513,7 @@
         "answer_index": 0
     },
     {
-        "number": 43,
+        "number": 49,
         "question": "Según el arơculo 106 de la LRBRL, la potestad reglamentaria de las enƟdades locales en materia tributaria se ejercerá a través de: ",
         "options": [
             "Ordenanzas ﬁscales.",
@@ -523,7 +523,7 @@
         "answer_index": 0
     },
     {
-        "number": 44,
+        "number": 50,
         "question": "¿A quién de estos corresponde la aprobación de los proyectos de ordenanzas? ",
         "options": [
             "Al Alcalde.",
@@ -533,7 +533,7 @@
         "answer_index": 0
     },
     {
-        "number": 45,
+        "number": 51,
         "question": "¿A quién corresponde aprobar el reglamento orgánico? ",
         "options": [
             "Al Pleno.",
@@ -543,7 +543,7 @@
         "answer_index": 0
     },
     {
-        "number": 46,
+        "number": 52,
         "question": "Según el arơculo 47 de la LRBRL, para la aprobación y modiﬁcación del reglamento orgánico de la corporación es preciso el voto favorable de: ",
         "options": [
             "Mayoría simple de los miembros presentes.",
@@ -553,7 +553,7 @@
         "answer_index": 0
     },
     {
-        "number": 47,
+        "number": 53,
         "question": "La Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público, persigue, entre otras cuesƟones: ",
         "options": [
             "Potenciar la subjeƟvidad en la adjudicación de los contratos públicos.",
@@ -563,7 +563,7 @@
         "answer_index": 0
     },
     {
-        "number": 48,
+        "number": 54,
         "question": "¿En qué contratos se incorporarán de manera transversal y precepƟva los criterios sociales y medioambientales, según la Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público? ",
         "options": [
             "En todos los contratos administraƟvos que tramite cualquiera de las enƟdades que forman parte del sector público deﬁnido en la Ley.",
@@ -573,7 +573,7 @@
         "answer_index": 0
     },
     {
-        "number": 49,
+        "number": 55,
         "question": "Son funcionarios interinos los que son nombrados como tales con carácter temporal: ",
         "options": [
             "Por razones expresamente jusƟﬁcades de necesidad y urgencia.",
@@ -583,7 +583,7 @@
         "answer_index": 0
     },
     {
-        "number": 50,
+        "number": 56,
         "question": "¿Cuál es el objetivo principal de la Ley Orgánica 3/2007 de 22 de marzo, para la igualdad efectiva de mujeres y hombres? ",
         "options": [
             "Regular la igualdad entre menores y adultos.",
@@ -593,7 +593,7 @@
         "answer_index": 0
     },
     {
-        "number": 51,
+        "number": 57,
         "question": "Según el Título Preliminar de la Ley Orgánica 3/2007, de 22 de marzo, para la igualdad efectiva de hombres y mujeres, ¿quién está obligado a cumplir con los principios de igualdad establecidos en la ley?",
         "options": [
             "Solo las instituciones públicas.",
@@ -603,7 +603,7 @@
         "answer_index": 0
     },
     {
-        "number": 52,
+        "number": 58,
         "question": "¿Qué son las acciones posiƟvas según la Ley Orgánica 3/2007?",
         "options": [
             "Medidas para favorecer a un grupo desfavorecido hasta alcanzar la igualdad.",
@@ -613,7 +613,7 @@
         "answer_index": 0
     },
     {
-        "number": 53,
+        "number": 59,
         "question": "Según la Ley 31/1995, de 8 de noviembre de Prevención de Riesgos Laborales, las empresas de entre 501 y 1.000 trabajadores contarán con:",
         "options": [
             "2 Delegados de Prevención.",
@@ -623,7 +623,7 @@
         "answer_index": 0
     },
     {
-        "number": 54,
+        "number": 60,
         "question": "Entre las funciones de los Delegados de Prevención se encuentra:",
         "options": [
             "Imponer sanciones por el incumplimiento de las normaƟvas de prevención de riesgos laborales.",
@@ -633,7 +633,7 @@
         "answer_index": 0
     },
     {
-        "number": 55,
+        "number": 61,
         "question": "Se consƟtuirá un Comité de Seguridad y Salud en todas las empresas o centros de trabajo que cuenten con:",
         "options": [
             "50 o más trabajadores.",
@@ -646,7 +646,7 @@
         "answer_index": 0
     },
     {
-        "number": 57,
+        "number": 62,
         "question": "¿Cuál es el orden de anotación en el Registro Electrónico General del Ayuntamiento de Madrid?",
         "options": [
             "Por orden de importancia del documento.",
@@ -656,7 +656,7 @@
         "answer_index": 0
     },
     {
-        "number": 58,
+        "number": 63,
         "question": "Concluido el trámite de registro, los documentos serán cursados:",
         "options": [
             "En un plazo máximo de 48 horas.",
@@ -666,7 +666,7 @@
         "answer_index": 0
     },
     {
-        "number": 59,
+        "number": 64,
         "question": "Las Oﬁcinas de asistencia en materia de registros Ɵenen naturaleza de órgano administraƟvo:",
         "options": [
             "Falso, solo el Registro General Ɵene esa naturaleza.",
@@ -676,7 +676,7 @@
         "answer_index": 0
     },
     {
-        "number": 60,
+        "number": 65,
         "question": "Cual de estas es función de las oﬁcinas de asistencia en materia de registro según el arơculo 40 de la Ordenanza de Atención a la Ciudadanía y Administración Electrónica, de 26 de febrero de 2019:",
         "options": [
             "La revisión de procedimientos.",
@@ -686,7 +686,7 @@
         "answer_index": 0
     },
     {
-        "number": 61,
+        "number": 66,
         "question": "La presentación en un día inhábil se entenderá:",
         "options": [
             "No realizada y deberá rechazarse.",
@@ -696,7 +696,7 @@
         "answer_index": 0
     },
     {
-        "number": 62,
+        "number": 67,
         "question": "¿Cuál es uno de los ﬁnes de la Atención a la ciudadanía en el Ayuntamiento de Madrid?",
         "options": [
             "GaranƟzar la veracidad de la información mediante el mantenimiento, actualización y validación por los órganos administraƟvos competentes.",
@@ -706,7 +706,7 @@
         "answer_index": 0
     },
     {
-        "number": 63,
+        "number": 68,
         "question": "¿Está prevista la dotación en las oﬁcinas de atención a la ciudadanía la posibilidad de implementar señaléƟca en Sistema Braille?",
         "options": [
             "Si.",
@@ -716,7 +716,7 @@
         "answer_index": 0
     },
     {
-        "number": 64,
+        "number": 69,
         "question": "Los Ɵpos de información recogidos en la Ordenanza de Atención a la Ciudadanía y Administración Electrónica, de 26 de febrero de 2019, son:",
         "options": [
             "Información administraƟva y procedimental.",
@@ -726,7 +726,7 @@
         "answer_index": 0
     },
     {
-        "number": 65,
+        "number": 70,
         "question": "La ordenanza de Transparencia de la Ciudad de Madrid, de 27 de julio de 2016, es aplicable a:",
         "options": [
             "El Ayuntamiento de Madrid, sus organismos autónomos y enƟdades públicas empresariales, entre otros.",
@@ -736,7 +736,7 @@
         "answer_index": 0
     },
     {
-        "number": 66,
+        "number": 71,
         "question": "Las sugerencias, reclamaciones y felicitaciones en el Ayuntamiento de Madrid …",
         "options": [
             "Están sujetas al procedimiento administraƟvo común.",
@@ -746,7 +746,7 @@
         "answer_index": 0
     },
     {
-        "number": 67,
+        "number": 72,
         "question": "Según la Ordenanza de Atención a la Ciudadanía y Administración Electrónica, de 26 de febrero de 2019, las sugerencias, reclamaciones y felicitaciones pueden ser:",
         "options": [
             "De carácter general y de carácter parƟcular.",
@@ -756,7 +756,7 @@
         "answer_index": 0
     },
     {
-        "number": 68,
+        "number": 73,
         "question": "Según la Ordenanza de Atención a la Ciudadanía y Administración Electrónica, de 26 de febrero de 2019, las sugerencias o reclamaciones:",
         "options": [
             "No tendrán en ningún caso la caliﬁcación de solicitud en ejercicio de un derecho subjeƟvo.",
@@ -766,7 +766,7 @@
         "answer_index": 0
     },
     {
-        "number": 69,
+        "number": 74,
         "question": "En caso de desisƟmiento de una sugerencia o reclamación.",
         "options": [
             "En la Ordenanza de Atención a la Ciudadanía y Administración Electrónica, de 26 de febrero de 2019 no se prevé el desisƟmiento.",
@@ -776,7 +776,7 @@
         "answer_index": 0
     },
     {
-        "number": 70,
+        "number": 75,
         "question": "Según la Ordenanza de Atención a la Ciudadanía y Administración Electrónica, de 26 de febrero de 2019, la felicitación que haga referencia expresa al correcto desempeño profesional de cualquier empleada pública o empleado público.",
         "options": [
             "Se expondrá en el tablón de anuncios municipal.",
