@@ -39,7 +39,10 @@ def parsear_preguntas(texto, respuestas_correctas):
     for linea in lineas:
         linea = linea.strip()
 
-        match_pregunta = re.match(r'^(\d+)\.\-\s*(.+)', linea)
+        #match_pregunta = re.match(r'^(\d+)\.\-\s*(.+)', linea)
+        #match_pregunta = re.match(r'^(\d+)\)\s*(.+)', linea)
+        #match_pregunta = re.match(r'^(\d+)(?:\.\-|\))\s*(.+)', linea)
+        match_pregunta = re.match(r'^(\d+)(?:\.\-|\)|\.)\s*(.+)', linea)
         if match_pregunta:
             if pregunta_actual and respuestas_actuales and numero_actual:
                 letra_correcta = respuestas_correctas.get(numero_actual, "a")
@@ -97,7 +100,10 @@ def main():
             preguntas = parsear_preguntas(texto, respuestas_correctas)
 
             preguntas.sort(key=lambda x: x["number"])  # Ordenar por número
-
+            
+            for idx, pregunta in enumerate(preguntas, start=1):
+                pregunta["number"] = idx
+            
             for pregunta in preguntas:
                 numero_pregunta = pregunta["number"]
                 if numero_pregunta not in respuestas_correctas:
