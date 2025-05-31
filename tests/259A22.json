@@ -1,0 +1,65 @@
+[
+    {
+        "question": "La Constitución española se compone de: ",
+        "options": [
+            "Un preámbulo, 170 artículos repartidos en un título preliminar y diez títulos numerados, cuatro disposiciones adicionales, nueve transitorias, una derogatoria y una final.",
+            "Un preámbulo, 169 artículos repartidos en un título preliminar y diez títulos numerados, cuatro disposiciones adicionales, nueve transitorias, una derogatoria y una final.",
+            "Un preámbulo, 179 artículos repartidos en un título preliminar y diez títulos numerados, cuatro disposiciones adicionales, nueve transitorias, una derogatoria y una final."
+        ],
+        "answer_index": 1
+    },
+    {
+        "question": "De acuerdo con lo establecido en la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, respecto a los medios y período de prueba, señale la respuesta correcta:",
+        "options": [
+            "Cuando la prueba consista en la emisión de un informe de un órgano administrativo, organismo público o Entidad de derecho público, se entenderá que éste tiene carácter facultativo y no vinculante",
+            "Cuando la Administración no tenga por ciertos los hechos alegados por los interesados o la naturaleza del procedimiento lo exija, el instructor del mismo acordará la apertura de un período de prueba por un plazo, que en ningún caso podrá ser inferior a veinte días, a fin de que puedan practicarse cuantas juzgue pertinentes. ",
+            "Cuando el instructor del procedimiento lo considere necesario, a petición de los interesados, podrá decidir la apertura de un período extraordinario de prueba por un plazo no superior a diez días."
+        ],
+        "answer_index": 2
+    },
+    {
+        "question": "Según el artículo 32 del texto refundido de la Ley Reguladora de las Haciendas Locales, aprobado por Real Decreto Legislativo 2/2004, de 5 de marzo, en relación con la cuota tributaria de las contribuciones especiales, ¿cuál de estas afirmaciones no es cierta?:",
+        "options": [
+            "La base imponible de las contribuciones especiales se repartirá entre los sujetos pasivos, teniendo en cuenta la clase y naturaleza de las obras y servicios, con sujeción a las siguientes reglas: a) Con carácter general se aplicarán conjunta o separadamente, como módulos de reparto, los metros lineales de fachada de los inmuebles, su superficie, su volumen edificable y el valor catastral a efectos del Impuesto sobre Bienes Inmuebles.",
+            "La base imponible de las contribuciones especiales se repartirá entre los sujetos pasivos, teniendo en cuenta la clase y naturaleza de las obras y servicios, con sujeción a las siguientes reglas: b) Si se trata del establecimiento y mejora del servicio de extinción de incendios, podrán ser distribuidas entre las entidades o sociedades que cubran el riesgo por bienes sitos en el municipio de la imposición, proporcionalmente al importe de las primas recaudadas en el año inmediatamente anterior. Si la cuota exigible a cada sujeto pasivo fuera superior al cinco por ciento del importe de las primas recaudadas por este, el exceso se trasladará a los ejercicios sucesivos hasta su total amortización.",
+            "En el supuesto de que las leyes o tratados internacionales concedan beneficios fiscales, las cuotas que puedan corresponder a los beneficiarios serán distribuidas entre los demás contribuyentes."
+        ],
+        "answer_index": 2
+    },
+    {
+        "question": "El Reglamento Orgánico del Pleno establece que le corresponde debatir el orden del día de las sesiones ordinarias del Pleno, determinando los asuntos incluidos en el orden del día sobre los que se van a entablar debate, establecer el orden de intervención de los grupos y fijando los tiempos en el debate, a:",
+        "options": [
+            "El Alcalde, asistido por el Secretario General del Pleno.",
+            "La Junta de Gobierno de la Ciudad de Madrid.",
+            "La Junta de Portavoces."
+        ],
+        "answer_index": 2
+    },
+    {
+        "question": "El Tribunal Económico administrativo Municipal de Madrid estará constituido por un número impar de miembros, con un mínimo de tres, y sus miembros serán designados:",
+        "options": [
+            "Por el Pleno.",
+            "Por la Junta de Gobierno.",
+            "Por el Alcalde."
+        ],
+        "answer_index": 0
+    },
+    {
+        "question": "De conformidad con lo dispuesto en el artículo 23 del Reglamento Orgánico 6/2021, de 1 de junio, de los Distritos del Ayuntamiento de Madrid, la Junta Municipal del Distrito se constituye válidamente con la asistencia de:",
+        "options": [
+            "Dos tercios del número legal de sus miembros. En todo caso se requerirá la presencia del presidente o del secretario, o de quienes legalmente les sustituyan.",
+            "Un tercio del número legal de sus miembros. En todo caso se requerirá la presencia del presidente y del secretario, o de quienes legalmente les sustituyan",
+            "La mayoría del número legal de sus miembros. En todo caso se requerirá la presencia del presidente o del secretario, o de quienes legalmente les sustituyan"
+        ],
+        "answer_index": 1
+    },
+    {
+        "question": "Según el artículo 89 del texto refundido de la Ley del Estatuto Básico del Empleado Público, aprobado por el Real Decreto Legislativo 5/2015, de 30 de octubre, los funcionarios de carrera podrán obtener la excedencia voluntaria por interés particular cuando hayan prestado servicios efectivos en cualquiera de las Administraciones Públicas durante un periodo mínimo de:",
+        "options": [
+            "Dos años inmediatamente anteriores.",
+            "Tres años inmediatamente anteriores.",
+            "Cinco años inmediatamente anteriores"
+        ],
+        "answer_index": 2
+    }
+]

@@ -1,0 +1,12 @@
+[
+    {
+        "question": "¿Cuál es la capital de Francia?",
+        "options": ["Madrid", "Berlín", "París", "Roma"],
+        "answer_index": 2
+    },
+    {
+        "question": "¿Cuánto es 2 + 2?",
+        "options": ["3", "4", "5", "22"],
+        "answer_index": 1
+    }
+]
