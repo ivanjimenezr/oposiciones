@@ -1,0 +1,782 @@
+[
+    {
+        "number": 1,
+        "question": "Según el artículo 11 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, las Administraciones Públicas sólo requerirán a los interesados el uso obligatorio de firma para:",
+        "options": [
+            "Formular peticiones.",
+            "Interponer recursos.",
+            "Renunciar a devoluciones de ingresos indebidos."
+        ],
+        "answer_index": 0
+    },
+    {
+        "number": 2,
+        "question": "Según el artículo 16 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, los documentos que los interesados dirijan a los órganos de las Administraciones Públicas podrán presentarse:",
+        "options": [
+            "En las oficinas de Correos, en la forma que reglamentariamente se establezca.",
+            "En las representaciones diplomáticas u oficinas consulares de España en el extranjero.",
+            "Ambas respuestas son correctas."
+        ],
+        "answer_index": 0
+    },
+    {
+        "number": 3,
+        "question": "En virtud del artículo 53 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, en el caso de procedimientos administrativos de naturaleza sancionadora, los presuntos responsables tendrán los siguientes derechos:",
+        "options": [
+            "A ser notificado de los hechos que se le imputen, de las infracciones que tales hechos puedan constituir y de las sanciones que, en su caso, se les pudieran imponer.",
+            "A ser declarado responsable de la sanción administrativa con anterioridad a la finalización del procedimiento.",
+            "A la devolución de ingresos indebidos si son declarados responsables."
+        ],
+        "answer_index": 0
+    },
+    {
+        "number": 4,
+        "question": "Según el artículo 74 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, las cuestiones incidentales que se susciten en el procedimiento, incluso las que se refieran a la nulidad de actuaciones:",
+        "options": [
+            "Suspenderán la tramitación del procedimiento si así lo solicita el interesado.",
+            "Suspenderán la tramitación del procedimiento, aunque no lo solicite el interesado.",
+            "No suspenderán la tramitación del procedimiento, salvo la recusación. TRIBUNAL CALIFICADOR PRUEBAS SELECTIVAS Titulado/a Medio Administración General del Ayuntamiento de Madrid (promoción interna independiente de personal laboral fijo 2021) AYUNTAMIENTO DE MADRID MADRID 3"
+        ],
+        "answer_index": 0
+    },
+    {
+        "number": 5,
+        "question": "Según el artículo 80 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, salvo disposición expresa en contrario:",
+        "options": [
+            "Los informes serán facultativos y no vinculantes.",
+            "Los informes serán preceptivos y no vinculantes.",
+            "Los informes serán preceptivos y vinculantes."
+        ],
+        "answer_index": 0
+    },
+    {
+        "number": 6,
+        "question": "Según el artículo 84 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, pondrán fin al procedimiento:",
+        "options": [
+            "La resolución, el desistimiento, la renuncia al derecho en que se funde la solicitud, cuando tal renuncia no esté prohibida por el ordenamiento jurídico, y la declaración de caducidad.",
+            "También producirá la terminación del procedimiento la imposibilidad material de continuarlo por causas sobrevenidas. La resolución que se dicte no deberá ser motivada en ningún caso.",
+            "Ninguna de las anteriores es correcta."
+        ],
+        "answer_index": 0
+    },
+    {
+        "number": 7,
+        "question": "Según el artículo 93 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, en los procedimientos iniciados de oficio, la Administración podrá:",
+        "options": [
+            "Desistir, siempre que lo considere oportuno",
+            "Desistir, motivadamente, en los supuestos y con los requisitos previstos en las Leyes.",
+            "La Administración no podrá desistir en los procedimientos iniciados de oficio."
+        ],
+        "answer_index": 0
+    },
+    {
+        "number": 8,
+        "question": "Según el artículo 116 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, serán causas de inadmisión de un recurso administrativo:",
+        "options": [
+            "Carecer de legitimación el recurrente",
+            "Tratarse de un acto susceptible de recurso",
+            "Estar en plazo de interposición de recurso TRIBUNAL CALIFICADOR PRUEBAS SELECTIVAS Titulado/a Medio Administración General del Ayuntamiento de Madrid (promoción interna independiente de personal laboral fijo 2021) AYUNTAMIENTO DE MADRID MADRID 4"
+        ],
+        "answer_index": 0
+    },
+    {
+        "number": 9,
+        "question": "Los particulares tendrán derecho a ser indemnizados por las Administraciones Públicas correspondientes, de toda lesión que sufran en cualquiera de sus bienes y derechos:",
+        "options": [
+            "Únicamente en aquellos casos en que la lesión sea consecuencia del funcionamiento anormal de los servicios públicos.",
+            "Únicamente en aquellos casos en que la lesión sea consecuencia del funcionamiento normal de los servicios públicos.",
+            "Salvo en los casos de fuerza mayor o de daños que el particular tenga el deber jurídico de soportar de acuerdo con la Ley."
+        ],
+        "answer_index": 0
+    },
+    {
+        "number": 10,
+        "question": "Según dispone el artículo 9 de la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público,",
+        "options": [
+            "Los órganos de las diferentes Administraciones Públicas podrán delegar el ejercicio de las competencias que tengan atribuidas en otros órganos de la misma Administración, únicamente en el caso de que éstos sean jerárquicamente dependientes.",
+            "Podrán ser objeto de delegación las competencias relativas a la adopción de disposiciones de carácter general.",
+            "Las resoluciones administrativas que se adopten por delegación indicarán expresamente esta circunstancia y se considerarán dictadas por el órgano delegante."
+        ],
+        "answer_index": 0
+    },
+    {
+        "number": 11,
+        "question": "Las diputaciones provinciales, consejos, cabildos insulares y, en todo caso, las demás entidades locales cuando su población sea superior a 20.000 habitantes, editarán el texto íntegro de las ordenanzas fiscales reguladoras de sus tributos:",
+        "options": [
+            "Dentro del primer cuatrimestre del ejercicio económico correspondiente.",
+            "Dentro del primer trimestre del ejercicio económico correspondiente.",
+            "Dentro del último trimestre del ejercicio económico inmediato anterior. TRIBUNAL CALIFICADOR PRUEBAS SELECTIVAS Titulado/a Medio Administración General del Ayuntamiento de Madrid (promoción interna independiente de personal laboral fijo 2021) AYUNTAMIENTO DE MADRID MADRID 5"
+        ],
+        "answer_index": 0
+    },
+    {
+        "number": 12,
+        "question": "Según se establece en el artículo 7 del Real Decreto Legislativo 2/2004 de 5 de marzo, por el que se aprueba el texto refundido de la Ley Reguladora de las Haciendas Locales:",
+        "options": [
+            "Las entidades locales no podrán delegar en la comunidad autónoma o en otras entidades locales en cuyo territorio estén integradas, las facultades de gestión, liquidación, inspección y recaudación tributarias que esta ley les atribuye.",
+            "Las entidades locales podrán delegar en la comunidad autónoma o en otras entidades locales en cuyo territorio estén integradas, las facultades de gestión, liquidación, inspección y recaudación de los restantes ingresos de Derecho público que les correspondan.",
+            "Las entidades locales no podrán delegar en la comunidad autónoma o en otras entidades locales en cuyo territorio estén integradas, las facultades de gestión, liquidación, inspección y recaudación de los restantes ingresos de Derecho público que les correspondan."
+        ],
+        "answer_index": 0
+    },
+    {
+        "number": 13,
+        "question": "La Ordenanza de Transparencia de la Ciudad de Madrid, según se establece en su artículo 2, se aplica a:",
+        "options": [
+            "Los organismos autónomos, entidades públicas empresariales y las entidades de derecho privado con personalidad jurídica propia, vinculadas o dependientes del Ayuntamiento de Madrid.",
+            "Los consorcios adscritos al Ayuntamiento de Madrid.",
+            "Las sociedades mercantiles en cuyo capital social, la participación, directa o indirecta, de las entidades previstas en este apartado sea igual o superior al 50 por ciento."
+        ],
+        "answer_index": 0
+    },
+    {
+        "number": 14,
+        "question": "Entre los principios básicos que rigen la interpretación y aplicación de la Ordenanza de Transparencia de la Ciudad de Madrid, según se establece en su artículo 4, se encuentra:",
+        "options": [
+            "Principio de participación, objetividad, claridad y proximidad a los ciudadanos.",
+            "Principio de cooperación, colaboración y coordinación entre las Administraciones Públicas.",
+            "Principio de facilidad de acceso: la información publicada en el Portal de Gobierno Abierto será de fácil acceso y localización de forma intuitiva para los usuarios. TRIBUNAL CALIFICADOR PRUEBAS SELECTIVAS Titulado/a Medio Administración General del Ayuntamiento de Madrid (promoción interna independiente de personal laboral fijo 2021) AYUNTAMIENTO DE MADRID MADRID 6"
+        ],
+        "answer_index": 0
+    },
+    {
+        "number": 15,
+        "question": "Según establece la Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público en lo relativo a la extinción de los mismos:",
+        "options": [
+            "Los contratos se extinguirán por su cumplimiento o por resolución.",
+            "Será causa de resolución la demora en el incumplimiento de los plazos por parte del contratista. En todo caso el retraso injustificado sobre el plan de trabajos establecido en el pliego o en el contrato, en cualquier actividad, por un plazo superior a un quinto del plazo de duración inicial del contrato, incluidas las posibles prórrogas.",
+            "En los casos en que concurran diversas causas de resolución del contrato con diferentes efectos en cuanto a las consecuencias económicas de la extinción, deberá atenderse a la que haya aparecido con posterioridad en el tiempo."
+        ],
+        "answer_index": 0
+    },
+    {
+        "number": 16,
+        "question": "De conformidad con lo establecido en la Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público, tendrán carácter administrativo los siguientes contratos:",
+        "options": [
+            "Los celebrados por entidades del sector público que aun no reuniendo la condición de Administraciones Públicas, sean poder adjudicador.",
+            "Aquellos cuyo objeto sea la suscripción a revistas, publicaciones periódicas y bases de datos, siempre que se celebren por una Administración Pública.",
+            "Siempre que se celebren por una Administración Pública, los contratos de obra, concesión de obra, concesión de servicios, suministro y servicios, salvo las excepciones contempladas en la propia Ley."
+        ],
+        "answer_index": 0
+    },
+    {
+        "number": 17,
+        "question": "El artículo 8 del Estatuto Básico del Empleado Público clasifica a los empleados públicos en:",
+        "options": [
+            "Funcionarios de carrera, funcionarios interinos, personal laboral y personal directivo.",
+            "Funcionarios de carrera, funcionarios de empleo y personal eventual.",
+            "Funcionarios de carrera, funcionarios interinos, personal laboral y personal eventual."
+        ],
+        "answer_index": 0
+    },
+    {
+        "number": 18,
+        "question": "El artículo 11 del Estatuto Básico del Empleado Público establece que los procedimientos de selección del personal laboral temporal, además de regirse por los principios de igualdad, mérito y capacidad, se regirán por el principio de:",
+        "options": [
+            "Confianza.",
+            "Celeridad.",
+            "Transparencia. TRIBUNAL CALIFICADOR PRUEBAS SELECTIVAS Titulado/a Medio Administración General del Ayuntamiento de Madrid (promoción interna independiente de personal laboral fijo 2021) AYUNTAMIENTO DE MADRID MADRID 7"
+        ],
+        "answer_index": 0
+    },
+    {
+        "number": 19,
+        "question": "De acuerdo con el artículo 95 del Estatuto Básico del Empleado Público, el abandono del servicio, así como no hacerse cargo voluntariamente de las tareas o funciones encomendadas, constituye una falta:",
+        "options": [
+            "Leve.",
+            "Muy grave.",
+            "Grave."
+        ],
+        "answer_index": 0
+    },
+    {
+        "number": 20,
+        "question": "De acuerdo con el Acuerdo-Convenio sobre Condiciones de Trabajo Comunes al Personal Funcionario y Laboral del Ayuntamiento de Madrid y de sus Organismos Autónomos para el periodo 2019-2022, la Comisión de Seguimiento está compuesta por:",
+        "options": [
+            "9 personas.",
+            "18 personas.",
+            "12 personas."
+        ],
+        "answer_index": 0
+    },
+    {
+        "number": 21,
+        "question": "De acuerdo con el Acuerdo-Convenio sobre Condiciones de Trabajo Comunes al Personal Funcionario y Laboral del Ayuntamiento de Madrid y de sus Organismos Autónomos para el periodo 2019-2022, los sistemas selectivos de personal laboral fijo serán los de:",
+        "options": [
+            "Oposición, concurso-oposición o concurso de valoración de méritos.",
+            "Solo concurso-oposición o concurso de méritos.",
+            "Solo oposición o concurso-oposición. No se admite seleccionar personal de nuevo ingreso mediante concurso de méritos sin examen."
+        ],
+        "answer_index": 0
+    },
+    {
+        "number": 22,
+        "question": "De acuerdo con el Acuerdo-Convenio sobre Condiciones de Trabajo Comunes al Personal Funcionario y Laboral del Ayuntamiento de Madrid y de sus Organismos Autónomos para el periodo 2019-2022, se define como jornada nocturna la que se desarrolla, con carácter general:",
+        "options": [
+            "Entre las 23 y las 7 horas.",
+            "Entre las 22 y las 8 horas.",
+            "Entre las 22 y las 7 horas. TRIBUNAL CALIFICADOR PRUEBAS SELECTIVAS Titulado/a Medio Administración General del Ayuntamiento de Madrid (promoción interna independiente de personal laboral fijo 2021) AYUNTAMIENTO DE MADRID MADRID 8"
+        ],
+        "answer_index": 0
+    },
+    {
+        "number": 23,
+        "question": "De acuerdo con el Acuerdo-Convenio sobre Condiciones de Trabajo Comunes al Personal Funcionario y Laboral del Ayuntamiento de Madrid y de sus Organismos Autónomos para el periodo 2019-2022, con carácter general y de ordinario, sin perjuicio de lo dispuesto para situaciones excepcionales, no se trabajarán más de:",
+        "options": [
+            "7 días consecutivos.",
+            "8 días consecutivos.",
+            "9 días consecutivos."
+        ],
+        "answer_index": 0
+    },
+    {
+        "number": 24,
+        "question": "Según el Acuerdo de 4 de julio de 2019, de la Junta de Gobierno de la Ciudad de Madrid, de organización y competencias del Área de Gobierno de Cultura, Turismo y Deporte, el Área Delegada de Deporte se compone de:",
+        "options": [
+            "2 Direcciones Generales y 3 Subdirecciones Generales.",
+            "1 Dirección General y 3 Subdirecciones Generales.",
+            "1 Dirección General y 2 Subdirecciones Generales."
+        ],
+        "answer_index": 0
+    },
+    {
+        "number": 25,
+        "question": "¿Cuál sería un ejemplo de motivación extrínseca en el ámbito laboral:",
+        "options": [
+            "Conseguir una mayor autoestima.",
+            "Conseguir un aumento de sueldo.",
+            "Conseguir una mayor autoconfianza."
+        ],
+        "answer_index": 0
+    },
+    {
+        "number": 26,
+        "question": "Según el Acuerdo Convenio sobre condiciones de trabajo comunes al personal funcionario y laboral del Ayuntamiento de Madrid y sus Organismos Autónomos para el periodo 2019-2022, como norma general, ¿en qué periodo habrá de solicitar el personal municipal el periodo vacacional que desee disfrutar durante el periodo estival?:",
+        "options": [
+            "Del 1 de abril al 1 de mayo.",
+            "Del 15 de abril al 15 de mayo.",
+            "Del 1 de mayo al 1 de junio."
+        ],
+        "answer_index": 0
+    },
+    {
+        "number": 27,
+        "question": "Según el Acuerdo Convenio sobre condiciones de trabajo comunes al personal funcionario y laboral del Ayuntamiento de Madrid y sus Organismos Autónomos para el periodo 2019-2022, como norma general, ¿en qué fecha deben resolver los respectivos gestores de personal las peticiones del periodo vacacional estival solicitadas por el personal municipal?:",
+        "options": [
+            "Antes del 1 de junio.",
+            "Antes del 31 de mayo.",
+            "Antes del 15 de mayo. TRIBUNAL CALIFICADOR PRUEBAS SELECTIVAS Titulado/a Medio Administración General del Ayuntamiento de Madrid (promoción interna independiente de personal laboral fijo 2021) AYUNTAMIENTO DE MADRID MADRID 9"
+        ],
+        "answer_index": 0
+    },
+    {
+        "number": 28,
+        "question": "Según el Acuerdo Convenio sobre condiciones de trabajo comunes al personal funcionario y laboral del Ayuntamiento de Madrid y sus Organismos Autónomos para el periodo 2019-2022 el disfrute del descanso semanal por el personal municipal es:",
+        "options": [
+            "Obligatorio y no acumulable, salvo petición del/de la interesado/a por causa justificada.",
+            "Potestativo y acumulable a petición del/de la interesado/a por causa justificada.",
+            "Potestativo y no acumulable, salvo petición del/de la interesado/a por causa justificada."
+        ],
+        "answer_index": 0
+    },
+    {
+        "number": 29,
+        "question": "En la aplicación Évalos, a la hora de buscar a un trabajador que esté dado de alta en la aplicación y no esté asignado a ningún Centro de Control hay que:",
+        "options": [
+            "Acceder a la aplicación introduciendo la palabra “comun” en Usuario y la palabra “comun” en Contraseña.",
+            "Acceder a la aplicación introduciendo el usuario de Ayre del Responsable de Évalos en Usuario y la palabra “password” en Contraseña.",
+            "Acceder a la aplicación introduciendo la palabra “comun” en Usuario y el DNI sin letra del Responsable de Évalos en Contraseña."
+        ],
+        "answer_index": 0
+    },
+    {
+        "number": 30,
+        "question": "En la aplicación Évalos, las incidencias que tienen una numeración inferior a 100:",
+        "options": [
+            "Son las primeras que se crearon en la aplicación porque son las que se utilizan más habitualmente.",
+            "Son incidencias cuya duración puede ser inferior al de una jornada laboral completa.",
+            "Están ordenadas alfabéticamente."
+        ],
+        "answer_index": 0
+    },
+    {
+        "number": 31,
+        "question": "Las actuaciones que orientan el vigente Plan de Igualdad entre hombres y mujeres del Ayuntamiento de Madrid y sus Organismos Autónomos se estructuran a través de:",
+        "options": [
+            "Tres líneas de intervención: la institución, la planificación y las personas.",
+            "Cuatro líneas de intervención: la institución, la comunicación, las personas y los medios.",
+            "Tres líneas de intervención: la institución, la comunicación y las personas. TRIBUNAL CALIFICADOR PRUEBAS SELECTIVAS Titulado/a Medio Administración General del Ayuntamiento de Madrid (promoción interna independiente de personal laboral fijo 2021) AYUNTAMIENTO DE MADRID MADRID 10"
+        ],
+        "answer_index": 0
+    },
+    {
+        "number": 32,
+        "question": "Según lo establecido en la Ley 31/1995, de 8 de noviembre de Prevención de Riesgos Laborales, los Delegados de prevención son:",
+        "options": [
+            "Empleados designados por la empresa para realizar funciones de prevención de riesgos laborales.",
+            "Auditores de empresas externas especializados en prevención de riesgos laborales.",
+            "Representantes de los trabajadores con funciones específicas en materia de prevención de riesgos en el trabajo."
+        ],
+        "answer_index": 0
+    },
+    {
+        "number": 33,
+        "question": "La web de deporte del Ayuntamiento de Madrid muestra el listado de centros deportivos municipales de gestión indirecta. De las tres opciones, indique la que no refleje un centro de gestión indirecta:",
+        "options": [
+            "CDM Juan de Dios Román.",
+            "CDM Vallehermoso.",
+            "CDM Alcántara."
+        ],
+        "answer_index": 0
+    },
+    {
+        "number": 34,
+        "question": "Según el Reglamento de Uso de las Instalaciones Deportivas y Servicios Deportivos Municipales, los centros deportivos municipales dispondrán, para el uso libre de las piscinas climatizadas, un mínimo de:",
+        "options": [
+            "Dos calles de piscina.",
+            "El 50% del número total de calles.",
+            "Las que la Dirección del Centro determine."
+        ],
+        "answer_index": 0
+    },
+    {
+        "number": 35,
+        "question": "Se entenderá que los usuarios aceptan las normas contenidas en el Reglamento de uso de las Instalaciones Deportivas y Servicios Deportivos Municipales cuando:",
+        "options": [
+            "Firmen un documento de aceptación.",
+            "Accedan a las instalaciones deportivas municipales.",
+            "Al inscribirse en alguna actividad dirigida."
+        ],
+        "answer_index": 0
+    },
+    {
+        "number": 36,
+        "question": "El Reglamento de Uso de las Instalaciones Deportivas y Servicios Deportivos Municipales será de aplicación:",
+        "options": [
+            "Sólo en las instalaciones deportivas municipales de gestión directa.",
+            "Sólo en las instalaciones deportivas municipales de gestión indirecta.",
+            "En las instalaciones deportivas municipales de gestión directa y gestión indirecta. TRIBUNAL CALIFICADOR PRUEBAS SELECTIVAS Titulado/a Medio Administración General del Ayuntamiento de Madrid (promoción interna independiente de personal laboral fijo 2021) AYUNTAMIENTO DE MADRID MADRID 11"
+        ],
+        "answer_index": 0
+    },
+    {
+        "number": 37,
+        "question": "¿En qué cartas de servicios del Ayuntamiento de Madrid aparece descrito el programa Aulas Deportivas?",
+        "options": [
+            "Carta de servicios deportivos.",
+            "Carta de Clases y Escuelas Deportivas.",
+            "Ambas respuestas son correctas."
+        ],
+        "answer_index": 0
+    },
+    {
+        "number": 38,
+        "question": "La Ordenanza de Cooperación Público-Social define las entidades y colectivos ciudadanos. Elige la respuesta correcta:",
+        "options": [
+            "Tendrán consideración de entidades ciudadanas sin ánimo de lucro a los efectos de la cooperación público-social aquellas entidades inscritas en las secciones 1ª y 2ª del Censo Municipal de Entidades y Colectivos Ciudadanos.",
+            "Tendrán consideración de entidades ciudadanas sin ánimo de lucro a los efectos de la cooperación público-social aquellas entidades inscritas en las secciones 1ª y 3ª del Censo Municipal de Entidades y Colectivos Ciudadanos.",
+            "Tendrán la consideración de colectivos ciudadanos sin ánimo de lucro las agrupaciones de cuatro o más personas físicas, inscritas en la sección 5ª del Censo Municipal de Entidades y Colectivos Ciudadanos."
+        ],
+        "answer_index": 0
+    },
+    {
+        "number": 39,
+        "question": "Podrán promover y participar en actividades de cooperación público-social los siguientes sujetos en la ordenanza de cooperación público social:",
+        "options": [
+            "Por parte del Ayuntamiento de Madrid, dentro de sus competencias, los órganos superiores y directivos del Ayuntamiento de Madrid y sus organismos públicos.",
+            "Por parte de la ciudadanía, las entidades y colectivos sin ánimo de lucro.",
+            "Las dos respuestas anteriores son correctas."
+        ],
+        "answer_index": 0
+    },
+    {
+        "number": 40,
+        "question": "Señale la respuesta incorrecta. Podrán participar en el desarrollo de actividades de cooperación público-social promovidas por otros sujetos de forma complementaria:",
+        "options": [
+            "Otras Administraciones públicas o entes de derecho público.",
+            "No podrán participar otros sujetos.",
+            "Personas físicas o jurídicas, sujetos de derecho privado, distintos de los contemplados en el apartado 1 b) del artículo 6. Ámbito subjetivo de la cooperación público social. TRIBUNAL CALIFICADOR PRUEBAS SELECTIVAS Titulado/a Medio Administración General del Ayuntamiento de Madrid (promoción interna independiente de personal laboral fijo 2021) AYUNTAMIENTO DE MADRID MADRID 12"
+        ],
+        "answer_index": 0
+    },
+    {
+        "number": 41,
+        "question": "El Programa general de actividades dirigidas, en la categoría Preinfantil se estructura de la siguiente manera:",
+        "options": [
+            "Preinfantil: de 3 hasta 5 años (salvo en las actividades familiares de matrogimnasia, que será de 6 meses a 4 años; y la de matronatación que podrá programarse para niñas y niños de 1 a 3 años).",
+            "Preinfantil: de 3 hasta 5 años (salvo en las actividades familiares de matrogimnasia, que será de 3 meses a 4 años; y la de matronatación que podrá programarse para niñas y niños de 1 a 4 años).",
+            "Preinfantil: de 3 hasta 5 años (salvo en las actividades familiares de matrogimnasia, que será de 3 meses a 5 años; y la de matronatación que podrá programarse para niñas y niños de 1 a 5 años)."
+        ],
+        "answer_index": 0
+    },
+    {
+        "number": 42,
+        "question": "Para facilitar la inclusión de las personas con discapacidad en el programa de actividades dirigidas:",
+        "options": [
+            "El porcentaje ofertado del 10% de plazas para personas con discapacidad por grupo de actividad, se activará a petición de la persona con discapacidad, momento a partir del cual se procederá a su inscripción preferente en el caso de plazas vacantes disponibles.",
+            "El porcentaje ofertado del 20% de plazas para personas con discapacidad por grupo de actividad, se activará a petición del director/a del Centro.",
+            "No hay un porcentaje establecido de plazas reservado para personas con discapacidad, en cualquier momento se pueden inscribir en cualquier actividad y tienen preferencia sobre cualquier usuario/a."
+        ],
+        "answer_index": 0
+    },
+    {
+        "number": 43,
+        "question": "Para la inscripción de personas en riesgo de exclusión social en el Programa de Actividades dirigidas, la persona interesada deberá acudir al Centro Deportivo con un informe de derivación o prescripción deportiva expedida por:",
+        "options": [
+            "La Secretaría del Distrito.",
+            "El Centro de Madrid Salud del distrito con el visto bueno de la Dirección General de Deportes.",
+            "El Centro de Servicios Sociales del distrito."
+        ],
+        "answer_index": 0
+    },
+    {
+        "number": 44,
+        "question": "La derivación, prescripción médica deportiva (receta deportiva) deberá estar expedida y debidamente firmada, incluyendo el número de colegiación, por un médico de:",
+        "options": [
+            "Los centros del Sistema Nacional de Salud y los Centros Municipales de Salud Comunitaria del Ayuntamiento de Madrid (CMSc).",
+            "Los Servicios Médico-Deportivos Municipales de los centros deportivos municipales.",
+            "Las dos respuestas anteriores son correctas. TRIBUNAL CALIFICADOR PRUEBAS SELECTIVAS Titulado/a Medio Administración General del Ayuntamiento de Madrid (promoción interna independiente de personal laboral fijo 2021) AYUNTAMIENTO DE MADRID MADRID 13"
+        ],
+        "answer_index": 0
+    },
+    {
+        "number": 45,
+        "question": "La duración del Programa de Psicomotricidad DOS es de:",
+        "options": [
+            "20 sesiones de 30 minutos cada una, correlativas a razón de dos por semana, pudiéndose modificar esta frecuencia en función de necesidades de programación.",
+            "20 sesiones de 45 minutos cada una, correlativas a razón de dos por semana, pudiéndose modificar esta frecuencia en función de necesidades de programación.",
+            "Durante toda la temporada deportiva, de dos sesiones por semana de 45 minutos de duración cada sesión."
+        ],
+        "answer_index": 0
+    },
+    {
+        "number": 46,
+        "question": "La configuración de los grupos de la actividad Matrogimnasia, con respecto a la edad, será:",
+        "options": [
+            "Grupos desde seis meses a 12 meses y grupos de 13 meses a 4 años.",
+            "Grupos desde tres meses a 12 meses y grupos de 13 meses a 4 años.",
+            "Grupos desde tres meses a 12 meses y grupos de 13 meses a 3 años."
+        ],
+        "answer_index": 0
+    },
+    {
+        "number": 47,
+        "question": "El número de alumnos/as por grupo en la escuela de natación infantil en el nivel 1 es de:",
+        "options": [
+            "En piscina de 25m, 15 personas en 1 calle y 20 personas en 2 calles y en piscina de 50m, 20 personas en 1 calle.",
+            "En piscina de 25m, 12 personas en 1 calle y 15 personas en 2 calles y en piscina de 50m, 20 personas en 1 calle.",
+            "En piscina de 25m, 15 personas en 1 calle y 25 personas en 2 calles y en piscina de 50m, 25 personas en 1 calle."
+        ],
+        "answer_index": 0
+    },
+    {
+        "number": 48,
+        "question": "Para las actividades de acondicionamiento físico para Mayores:",
+        "options": [
+            "Se requiere entrevista.",
+            "No hace falta entrevista previa.",
+            "Lo determina el Centro Deportivo donde se realiza la inscripción."
+        ],
+        "answer_index": 0
+    },
+    {
+        "number": 49,
+        "question": "En las clases de natación para embarazadas:",
+        "options": [
+            "Las sesiones son de 30 minutos, y el número de alumnas por grupo es 10 alumnas en piscina de 25 m y 15 alumnas en piscina de 50 m.",
+            "Las sesiones son de 45 minutos, y el número de alumnas por grupo es 10 alumnas en piscina de 25 m y 15 alumnas en piscina de 50 m.",
+            "Las sesiones son de 45 minutos, y el número de alumnas por grupo es 15 alumnas en piscina de 25 m y 20 alumnas en piscina de 50 m. TRIBUNAL CALIFICADOR PRUEBAS SELECTIVAS Titulado/a Medio Administración General del Ayuntamiento de Madrid (promoción interna independiente de personal laboral fijo 2021) AYUNTAMIENTO DE MADRID MADRID 14"
+        ],
+        "answer_index": 0
+    },
+    {
+        "number": 50,
+        "question": "El Reglamento de Uso de las Instalaciones Deportivas y Servicios Deportivos Municipales establece que el uso libre de las piscinas climatizadas tendrá una duración máxima de:",
+        "options": [
+            "Una hora.",
+            "Dos horas.",
+            "El tiempo de apertura de la unidad deportiva."
+        ],
+        "answer_index": 0
+    },
+    {
+        "number": 51,
+        "question": "Según el Reglamento de Uso de las Instalaciones Deportivas y Servicios Deportivos Municipales, la reserva a centros docentes para impartir clases de educación física tendrá una duración de:",
+        "options": [
+            "Un año natural.",
+            "Un curso escolar.",
+            "Dependerá de la duración de la unidad didáctica a desarrollar según el Ministerio de Educación."
+        ],
+        "answer_index": 0
+    },
+    {
+        "number": 52,
+        "question": "Según el Reglamento de Uso de las Instalaciones Deportivas y Servicios Deportivos Municipales, la comisión de una falta leve dará lugar a la imposición de la siguiente sanción económica:",
+        "options": [
+            "Hasta 500 euros.",
+            "Hasta 750 euros.",
+            "Hasta 1000 euros."
+        ],
+        "answer_index": 0
+    },
+    {
+        "number": 53,
+        "question": "Según Reglamento de Uso de las Instalaciones Deportivas y Servicios Deportivos Municipales y con el objeto de facilitar los entrenamientos de los equipos inscritos en los Juegos Deportivos Municipales ¿Cuál es el criterio primero para conceder la reserva de temporada a los participantes?",
+        "options": [
+            "Preferencia equipos femeninos y categorías de base.",
+            "Equipos que incluyan entre sus jugadores personas con discapacidad.",
+            "Años de participación en los Juegos Deportivos Municipales."
+        ],
+        "answer_index": 0
+    },
+    {
+        "number": 54,
+        "question": "En todas las categorías que convoca los Juegos Deportivos Municipales podrán participar deportistas de segundo año de la categoría inmediatamente inferior:",
+        "options": [
+            "Excepto en la categoría prebenjamín.",
+            "Excepto en la categoría alevín.",
+            "En ningún caso. TRIBUNAL CALIFICADOR PRUEBAS SELECTIVAS Titulado/a Medio Administración General del Ayuntamiento de Madrid (promoción interna independiente de personal laboral fijo 2021) AYUNTAMIENTO DE MADRID MADRID 15"
+        ],
+        "answer_index": 0
+    },
+    {
+        "number": 55,
+        "question": "La competición de los Juegos Deportivos Municipales se convoca mixta en las siguientes categorías:",
+        "options": [
+            "Prebenjamín, benjamín, alevín e Infantil.",
+            "Prebenjamín, benjamín y alevín.",
+            "Prebenjamín, benjamín y juvenil."
+        ],
+        "answer_index": 0
+    },
+    {
+        "number": 56,
+        "question": "En los encuentros de baloncesto de la categoría alevín es:",
+        "options": [
+            "Obligatorio realizar defensa en zona.",
+            "Obligatorio realizar defensa individual.",
+            "No existe obligación de realizar ningún tipo de defensa."
+        ],
+        "answer_index": 0
+    },
+    {
+        "number": 57,
+        "question": "En los encuentros de la categoría alevín de fútbol-sala deberán participar en el transcurso del encuentro:",
+        "options": [
+            "Los jugadores seleccionados por su entrenador.",
+            "Un mínimo de ocho jugadores de todos los aquellos inscritos en el acta.",
+            "Todos los deportistas inscritos en el acta."
+        ],
+        "answer_index": 0
+    },
+    {
+        "number": 58,
+        "question": "La composición de los grupos en los deportes de equipo, el número de equipos necesarios para poder organizar cada grupo será, con carácter general:",
+        "options": [
+            "8 equipos en las categorías prebenjamín, benjamín, alevín, infantil y cadete.",
+            "8 equipos en las categorías prebenjamín, benjamín, alevín, infantil, cadete y juvenil.",
+            "10 equipos en las categorías benjamín, alevín, infantil y cadete."
+        ],
+        "answer_index": 0
+    },
+    {
+        "number": 59,
+        "question": "En la fase final de Madrid, un equipo solicita el aplazamiento del partido por imposibilidad de acudir al encuentro uno de sus mejores jugadores:",
+        "options": [
+            "En fase final de Madrid no se autoriza ningún cambio en la programación de los encuentros.",
+            "Siempre y cuando sea una causa justificada, se podrá acordar una nueva fecha para disputar el encuentro.",
+            "En la fase final de Madrid, se podrá modificar la programación con el acuerdo de las partes. TRIBUNAL CALIFICADOR PRUEBAS SELECTIVAS Titulado/a Medio Administración General del Ayuntamiento de Madrid (promoción interna independiente de personal laboral fijo 2021) AYUNTAMIENTO DE MADRID MADRID 16"
+        ],
+        "answer_index": 0
+    },
+    {
+        "number": 60,
+        "question": "Cuando en un partido de los Juegos Deportivos Municipales coinciden en la vestimenta con los mismos colores:",
+        "options": [
+            "Deberá cambiarse el equipo que figure en primer lugar en el calendario de competición.",
+            "Deberán ponerse de acuerdo los dos equipos para decidir quién cambia de equipación.",
+            "Deberá cambiarse obligatoriamente el equipo que figure en segundo lugar en el calendario de competición."
+        ],
+        "answer_index": 0
+    },
+    {
+        "number": 61,
+        "question": "En caso de sufrir un accidente deportivo en una competición de Juegos Deportivos Municipales celebrada en un centro deportivo municipal se deberá acudir a:",
+        "options": [
+            "La compañía de seguros que tiene el Ayuntamiento de Madrid para estos casos.",
+            "A la Seguridad Social o a un seguro privado propio.",
+            "Ninguna de las dos opciones anteriores es válida."
+        ],
+        "answer_index": 0
+    },
+    {
+        "number": 62,
+        "question": "Para la aplicación de los precios según Acuerdo de 22 de diciembre de 2010 del Pleno del Ayuntamiento de Madrid, se establecen entre otras la siguiente categoría:",
+        "options": [
+            "Categoría joven. Pertenecen a la misma todos los beneficiarios de edades comprendidas entre 15 años y 26 años.",
+            "Categoría joven. Pertenecen a la misma todos los beneficiarios de edades comprendidas entre 18 años y 25 años.",
+            "Categoría joven. Pertenecen a la misma todos los beneficiarios de edad menor a 16 años."
+        ],
+        "answer_index": 0
+    },
+    {
+        "number": 63,
+        "question": "Según el Acuerdo de 22 de diciembre de 2010 del Pleno del Ayuntamiento de Madrid por el que se establecen los precios públicos por la prestación de servicios en Centros Deportivos y Casas de Baños, la utilización de una pista de baloncesto tipo 3 contra 3:",
+        "options": [
+            "Se aplicará una reducción del 50% sobre la tarifa general.",
+            "Se aplicará una reducción del 70% sobre la tarifa general.",
+            "Se aplicará una reducción del 40% sobre la tarifa general. TRIBUNAL CALIFICADOR PRUEBAS SELECTIVAS Titulado/a Medio Administración General del Ayuntamiento de Madrid (promoción interna independiente de personal laboral fijo 2021) AYUNTAMIENTO DE MADRID MADRID 17"
+        ],
+        "answer_index": 0
+    },
+    {
+        "number": 64,
+        "question": "Según el Acuerdo de 22 de diciembre de 2010 del Pleno del Ayuntamiento de Madrid por el que se establecen los precios públicos por la prestación de servicios en Centros Deportivos y Casas de Baños, en el caso de alquilar una pista de pádel para poder aplicar el precio en la categoría de mayor es necesario que:",
+        "options": [
+            "Al menos dos jugadores pertenezcan a esa categoría.",
+            "Que todos los jugadores pertenezcan a esa categoría.",
+            "Que al menos un jugador pertenezca a esa categoría."
+        ],
+        "answer_index": 0
+    },
+    {
+        "number": 65,
+        "question": "Según el Acuerdo de 22 de diciembre de 2010 del Pleno del Ayuntamiento de Madrid, el reconocimiento médico básico comprende:",
+        "options": [
+            "Consulta médica, exploración, antropometría básica y otras especificaciones técnicas que indiquen los especialistas.",
+            "Consulta médica, electrocardiograma y ergometría.",
+            "Sólo incluye la consulta médica."
+        ],
+        "answer_index": 0
+    },
+    {
+        "number": 66,
+        "question": "Si un ciudadano/a desea acceder al servicio de barcas de recreo del Lago de la Casa de Campo, deberá hacerlo a través de:",
+        "options": [
+            "El portal web de deporte del Ayuntamiento de Madrid.",
+            "La app “Madrid Móvil”.",
+            "Ambas son correctas."
+        ],
+        "answer_index": 0
+    },
+    {
+        "number": 67,
+        "question": "Si un ciudadano/a desea realizar nado libre en la piscina cubierta del centro deportivo municipal de Pradillo deberá acceder al portal web de deporte del Ayuntamiento de Madrid a través de la sección:",
+        "options": [
+            "Reserva de clases abiertas.",
+            "Alquiler de unidades deportivas.",
+            "Entradas de uso libre."
+        ],
+        "answer_index": 0
+    },
+    {
+        "number": 68,
+        "question": "¿Cuál de las siguientes gestiones se puede realizar haciendo uso del portal web de deporte y sin embargo no está disponible a través de la app “Madrid Móvil”",
+        "options": [
+            "Consulta de partidos de los Juegos Deportivos Municipales.",
+            "Consulta de clasificaciones de los Juegos Deportivos Municipales.",
+            "Inscripción en los Juegos Deportivos Municipales. TRIBUNAL CALIFICADOR PRUEBAS SELECTIVAS Titulado/a Medio Administración General del Ayuntamiento de Madrid (promoción interna independiente de personal laboral fijo 2021) AYUNTAMIENTO DE MADRID MADRID 18"
+        ],
+        "answer_index": 0
+    },
+    {
+        "number": 69,
+        "question": "¿En qué artículo de la Ley del Deporte de la Comunidad de Madrid se proclama el derecho al deporte?:",
+        "options": [
+            "1.",
+            "2.",
+            "3."
+        ],
+        "answer_index": 0
+    },
+    {
+        "number": 70,
+        "question": "¿Cuáles de las siguientes profesiones reguladas por la ley 6/2016, de 24 de noviembre, por la que se ordena el ejercicio de las profesiones del deporte en la Comunidad de Madrid, se encuentra desarrollada por una normativa específica propia, fuera de la redacción de este texto legal?",
+        "options": [
+            "Entrenador-a deportivo-a.",
+            "Profesor-a de Educación Física.",
+            "Ninguna de las opciones anteriores es correcta."
+        ],
+        "answer_index": 0
+    },
+    {
+        "number": 71,
+        "question": "¿En cuáles de las siguientes opciones de profesiones se requiere ser exclusivamente licenciado en Educación Física o Grado equivalente?",
+        "options": [
+            "Preparador físico y profesor de Educación Física",
+            "Director deportivo y profesor de Educación Física.",
+            "Director deportivo y preparador físico."
+        ],
+        "answer_index": 0
+    },
+    {
+        "number": 72,
+        "question": "El artículo 6.2 de la Ley 19/2007, de 11 de julio, contra la violencia, el racismo, la xenofobia y la intolerancia en el deporte, permite que las personas espectadoras y asistentes a las competiciones y espectáculos deportivos, quedan obligadas a someterse a los controles pertinentes para la verificación de las condiciones referidas en el apartado anterior, y en particular ser grabados mediante circuitos cerrados de televisión:",
+        "options": [
+            "En los aledaños del recinto deportivo, en sus accesos y en el interior de los mismos.",
+            "Sólo en el interior de los recintos deportivos.",
+            "Ninguna de las opciones anteriores es correcta."
+        ],
+        "answer_index": 0
+    },
+    {
+        "number": 73,
+        "question": "Según el artículo 10 del Decreto 80/1998 de 14 de mayo, por el que se regulan las condiciones higiénico-sanitarias de piscinas de uso colectivo, independientemente de la existencia de posibles escalinatas y rampas de acceso al vaso, en las proximidades de los ángulos del mismo y en la zona de cambio de pendiente del fondo, se instalarán escaleras, de manera que de una a otra no haya nunca una distancia superior a:",
+        "options": [
+            "12 m.",
+            "17 m.",
+            "15 m. TRIBUNAL CALIFICADOR PRUEBAS SELECTIVAS Titulado/a Medio Administración General del Ayuntamiento de Madrid (promoción interna independiente de personal laboral fijo 2021) AYUNTAMIENTO DE MADRID MADRID 19"
+        ],
+        "answer_index": 0
+    },
+    {
+        "number": 74,
+        "question": "Según el artículo 13 del Decreto 80/1998 de 14 de mayo, por el que se regulan las condiciones higiénico-sanitarias de piscinas de uso colectivo, en las instalaciones al aire libre en las que existan áreas con césped, tierra o arena, el acceso al vaso se realizará a través de piletas de paso obligado dotadas con duchas. Estas piletas se instalarán en la zona de baño y tendrán:",
+        "options": [
+            "Una profundidad no inferior a 0,10 metros y longitud igual o mayor a 2 metros",
+            "Una profundidad no inferior a 0,15 metros y longitud igual o mayor a 2.5 metros",
+            "Una profundidad no inferior a 0,20 metros y longitud igual o mayor a 3 metros."
+        ],
+        "answer_index": 0
+    },
+    {
+        "number": 75,
+        "question": "Según el artículo 19 del Decreto 80/1998 de 14 de mayo, por el que se regulan las condiciones higiénico-sanitarias de piscinas de uso colectivo, la dotación y composición del equipo sanitario será la siguiente:",
+        "options": [
+            "Piscinas que en su conjunto sumen hasta 500 metros cuadrados de lámina de agua, dispondrán de un ATS/DUE o médico en servicio permanente",
+            "Piscinas que en su conjunto sumen entre 500 y 1.000 metros cuadrados de lámina de agua, dispondrán de un ATS/DUE o médico en servicio permanente",
+            "Piscinas que en su conjunto sumen más de 1.000 metros cuadrados de lámina de agua, deberán contar con dos ATS/DUE y un médico, todos en servicio permanente."
+        ],
+        "answer_index": 0
+    },
+    {
+        "number": 76,
+        "question": "Según el apartado 6º del Anexo del Real Decreto 849/1993, de 4 de junio, por el que se determina las prestaciones mínimas del Seguro Obligatorio Deportivo, las indemnizaciones por pérdidas anatómicas o funcionales motivadas por accidente deportivo, con un mínimo, para los grandes inválidos (tetraplejia), serán de…:",
+        "options": [
+            "1.000.000 de pesetas (6.010,121 €).",
+            "1.500.000 de pesetas (9.015,182 €).",
+            "2.000.000 de pesetas (12.020,242 €)."
+        ],
+        "answer_index": 0
+    },
+    {
+        "number": 77,
+        "question": "Según el artículo 38 de la Ley 17/1997, de 4 de julio, de Espectáculos Públicos y Actividades Recreativas, se consideran infracciones graves en materia de espectáculos públicos y actividades recreativas:",
+        "options": [
+            "La superación del aforo máximo permitido cuando comporte un grave riesgo para la seguridad de personas o bienes.",
+            "La admisión o participación de menores en espectáculos, actividades y establecimientos donde tengan prohibida su entrada o participación.",
+            "La venta o servicio de bebidas alcohólicas a menores de dieciocho años, así como permitir su consumo en el local o establecimiento. TRIBUNAL CALIFICADOR PRUEBAS SELECTIVAS Titulado/a Medio Administración General del Ayuntamiento de Madrid (promoción interna independiente de personal laboral fijo 2021) AYUNTAMIENTO DE MADRID MADRID 20"
+        ],
+        "answer_index": 0
+    },
+    {
+        "number": 78,
+        "question": "Según el artículo 39 de la Ley 17/1997, de 4 de julio, de Espectáculos Públicos y Actividades Recreativas, se consideran infracciones leves en materia de espectáculos públicos y actividades recreativas:",
+        "options": [
+            "El incumplimiento de las condiciones de insonorización de los locales, recintos e instalaciones.",
+            "La instalación dentro de los establecimientos o locales, de cualquier tipo de puestos de venta y otras actividades sin obtener la licencia o autorización que fuera preceptiva.",
+            "El incumplimiento de los horarios de inicio o final de un espectáculo y de apertura y cierre de los establecimientos públicos. TRIBUNAL CALIFICADOR PRUEBAS SELECTIVAS Titulado/a Medio Administración General del Ayuntamiento de Madrid (promoción interna independiente de personal laboral fijo 2021) AYUNTAMIENTO DE MADRID MADRID 21 TRIBUNAL CALIFICADOR PRUEBAS SELECTIVAS TITULADO/A MEDIO ADMON GRAL GRUPO A2, PERSONAL LABORAL FIJO PROMOCIÓN INTERNA INDEPENDIENTE AYUNTAMIENTO DE MADRID PLANTILLA DEFINITIVA DE RESPUESTAS PRIMER EJERCICIO Pregunta Respuesta 1 B 2 C 3 A 4 C 5 A 6 A 7 B 8 A 9 C 10 C 11 A 12 B 13 B 14 C 15 A 16 C 17 C 18 B 19 B 20 B 21 A 22 C 23 A 24 B 25 B 26 A 27 B 28 A 29 A 30 B 31 C 32 C 33 A 34 A 35 B 36 C 37 C 38 A 39 C 40 B 41 B 42 A 43 C 44 C 45 A 46 B 47 A 48 A 49 B 50 B 51 B 52 B 53 C 54 A 55 B 56 B 57 C 58 B 59 A 60 C 61 B 62 A 63 C 64 B 65 A 66 C 67 C 68 C 69 C 70 B 71 C 72 A 73 C 74 A 75 B 76 C 77 B 78 C"
+        ],
+        "answer_index": 0
+    }
+]

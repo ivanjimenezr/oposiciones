@@ -1,0 +1,336 @@
+[
+    {
+        "number": 1,
+        "question": "En Word, ¿Cuáles son las opciones de Saltos?",
+        "options": [
+            "Saltos de párrafo y saltos de sección.",
+            "Saltos de página y saltos de línea.",
+            "Saltos de página y saltos de sección."
+            
+        ],
+        "answer_index": 0
+    },
+    {
+        "number": 2,
+        "question": "Según la Ordenanza de Licencias y Declaraciones Responsables una vez finalizada la actuación urbanística ¿en cuánto tiempo deberá comunicar el titular de la declaración responsable al Ayuntamiento, su total terminación, acompañada de la documentación prevista en el anexo II.D)?",
+        "options": [
+            "Un mes como máximo.",
+            "Tres meses.",
+            "Quince días."  
+            
+        ],
+        "answer_index": 0
+    },
+    {
+        "number": 3,
+        "question": "Según la Ordenanza de Licencias y Declaraciones Responsables ¿Cuándo se podrá solicitar una licencia básica previa a la licencia urbanística?",
+        "options": [
+            "Cuando se trate de solicitudes no sujetas a intervención por licencia o declaración responsable.",
+            "En actuaciones que requieran licencias provisionales.",
+            "Cuando se trate de solicitudes de licencia de obras de nueva planta, sustitución y/o reestructuración total. "  
+            
+        ],
+        "answer_index": 0
+    },
+    {
+        "number": 4,
+        "question": "Según la Ordenanza de Licencias y Declaraciones Responsables el Ayuntamiento de Madrid las licencias para actividades temporales en espacios privados no podrán tener una duración superior a:",
+        "options": [
+            "Seis meses.",
+            "Tres meses.",
+            "Dos meses. "  
+            
+        ],
+        "answer_index": 0
+    },
+    {
+        "number": 5,
+        "question": "¿En qué artículo de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas se regulan los supuestos que ponen fin a la vía administrativa?",
+        "options": [
+            "Artículo 116.",
+            "Artículo 112.",
+            "Artículo 114. "
+        ],
+        "answer_index": 0
+    },
+    {
+        "number": 6,
+        "question": "De acuerdo con el artículo 118 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, cuando se han de tener en cuenta nuevos hechos o documentos no recogidos en el expediente originario, ¿qué plazo da la ley para que los interesados formulen alegaciones y presenten los documentos y justificantes que estimen procedentes?",
+        "options": [
+            "No superior a diez días ni inferior a quince.",
+            "No inferior a quince días ni superior a diez.",
+            "No inferior a diez días ni superior a quince."
+        ],
+        "answer_index": 0
+    },
+    {
+        "number": 7,
+        "question": "Según la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, el recurso extraordinario de revisión se podrá interponer cuando concurra esta circunstancia.",
+        "options": [
+            "Que en la resolución hayan influido esencialmente documentos o testimonios declarados falsos por sentencia judicial firme, anterior o posterior a aquella resolución.",
+            "Que en la resolución hayan influido esencialmente documentos o testimonios declarados falsos por sentencia judicial, anterior a aquella resolución.",
+            "Que en la resolución hayan influido documentos o testimonios declarados falsos por sentencia judicial, posterior a aquella resolución. "
+        ],
+        "answer_index": 0
+    },
+    {
+        "number": 8,
+        "question": "Según el artículo 35 de la Ley 31/1995, de 8 de noviembre, de Prevención de Riesgos Laborales, a efectos de determinar el número de delegados de prevención se tendrán en cuenta los siguientes criterios:",
+        "options": [
+            "Los trabajadores vinculados por contratos de duración determinada superior a un año se computarán como trabajadores fijos de plantilla.",
+            "Los trabajadores vinculados por contratos de duración determinada superior a seis meses se computarán como trabajadores fijos de plantilla.",
+            "Los trabajadores vinculados por contratos de duración determinada superior a tres meses se computarán como trabajadores fijos de plantilla."
+        ],
+        "answer_index": 0
+    },
+    {
+        "number": 9,
+        "question": "Según el artículo 38 de la Ley 31/1995, de 8 de noviembre, de prevención de Riesgos Laborales, se constituirá un Comité de Seguridad y Salud en todas las empresas o centros de trabajo que cuenten con:",
+        "options": [
+            "25 o más trabajadores.",
+            "30 o más trabajadores.",
+            "50 o más trabajadores. "
+        ],
+        "answer_index": 0
+    },
+    {
+        "number": 10,
+        "question": "Según el artículo 46 del Acuerdo de 27 de diciembre de 2018 de la Junta de Gobierno de la Ciudad de Madrid por el que se aprueba el Acuerdo-Convenio sobre Condiciones de Trabajo Comunes al Personal Funcionario y Laboral del Ayuntamiento de Madrid y de sus Organismos Autónomos para el periodo 2019- 2022, el sistema de prevención del Ayuntamiento de Madrid será sometido cada cuatro años a control mediante auditorías o evaluaciones, sin perjuicio del cumplimiento de la normativa vigente en relación a su realización:",
+        "options": [
+            "Cada año en actividades especialmente peligrosas.",
+            "Cada seis meses en actividades especialmente peligrosas.",
+            "Cada dos años en actividades especialmente peligrosas. "
+        ],
+        "answer_index": 0
+    },
+    {
+        "number": 11,
+        "question": "Según el artículo 36 de la Ley 31/1995, de 8 de noviembre, de prevención de Riesgos Laborales, son competencias de los delegados de Prevención:",
+        "options": [
+            "Colaborar con la dirección de la empresa en la mejora de la acción preventiva.",
+            "Ejercer una labor de vigilancia y control sobre el cumplimiento de la normativa de protección de datos.",
+            "Ambas son correctas."
+        ],
+        "answer_index": 0
+    },
+    {
+        "number": 12,
+        "question": "El art. 18. del Texto Refundido de la Ley del Estatuto Básico del Empleado Público, aprobado por el Real Decreto Legislativo 5/2015, de 30 de octubre, establece que la promoción interna de los funcionarios de carrera se realizará mediante procesos selectivos que garanticen el cumplimiento de los principios constitucionales de igualdad, mérito y capacidad, así como los contemplados en el artículo 55.2 del Estatuto, para lo que:",
+        "options": [
+            "Los funcionarios deberán poseer los requisitos exigidos para el ingreso, tener una antigüedad de, al menos, cinco años de servicio activo en el inferior Subgrupo, o Grupo de clasificación profesional, en el supuesto de que éste no tenga Subgrupo y superar las correspondientes pruebas selectivas.",
+            "Los funcionarios deberán poseer los requisitos exigidos para el ingreso, tener una antigüedad de, al menos, dos años de servicio y superar las correspondientes pruebas selectivas.",
+            "Los funcionarios deberán poseer los requisitos exigidos para el ingreso, tener una antigüedad de, al menos, dos años de servicio activo en el inferior Subgrupo, o Grupo de clasificación profesional, en el supuesto de que éste no tenga Subgrupo y superar las correspondientes pruebas selectivas."
+        ],
+        "answer_index": 0
+    },
+    {
+        "number": 13,
+        "question": "La potestad disciplinaria se ejercerá de acuerdo con los siguientes principios:",
+        "options": [
+            "Principio de legalidad y tipicidad de las faltas y sanciones, a través de la predeterminación normativa o, en el caso del personal laboral, de los convenios colectivos, principio de irretroactividad de las disposiciones sancionadoras no favorables y de retroactividad de las favorables al presunto infractor, principio de proporcionalidad, aplicable tanto a la clasificación de las infracciones y sanciones como a su aplicación, principio de igualdad y principio de presunción de inocencia.",
+            "Principio de legalidad y tipicidad de las faltas y sanciones, a través de la predeterminación normativa o, en el caso del personal laboral, de los convenios colectivos, principio de irretroactividad de las disposiciones sancionadoras no favorables y de retroactividad de las favorables al presunto infractor, principio de proporcionalidad, aplicable tanto a la clasificación de las infracciones y sanciones como a su aplicación, principio de culpabilidad, principio de presunción de inocencia.",
+            "Principio de legalidad y tipicidad de las faltas y sanciones, a través de la predeterminación normativa o, en el caso del personal laboral, de los convenios colectivos, principio de irretroactividad de las disposiciones sancionadoras no favorables y de retroactividad de las favorables al presunto infractor, principio de proporcionalidad, aplicable tanto a la clasificación de las infracciones y sanciones como a su aplicación, principio de justicia y principio de presunción de inocencia."
+        ],
+        "answer_index": 0
+    },
+    {
+        "number": 14,
+        "question": "Los funcionarios de carrera se hallarán en alguna de las siguientes situaciones:",
+        "options": [
+            "Servicio activo, servicios especiales, servicio en otras Administraciones Públicas, excedencia y suspensión de funciones.",
+            "Servicio activo, servicios especiales, servicio en otras Administraciones Públicas, excedencia y permiso retribuido.",
+            "Servicio activo, servicios especiales, servicio en otras Administraciones Públicas, excedencia voluntaria y suspensión de funciones.  "
+        ],
+        "answer_index": 0
+    },
+    {
+        "number": 15,
+        "question": "No están sujetos al impuesto sobre Bienes Inmuebles:",
+        "options": [
+            "Los bienes patrimoniales de los municipios cedidos a terceros mediante contraprestación.",
+            "Los de dominio público afectos a un servicio público gestionado directamente por el ayuntamiento.",
+            "En todo caso, las carreteras, los caminos y las demás vías terrestres."
+        ],
+        "answer_index": 0
+    },
+    {
+        "number": 16,
+        "question": "La cuota tributaria del Impuesto sobre Actividades Económicas será:",
+        "options": [
+            "La resultante de aplicar a la base imponible el tipo de gravamen correspondiente de acuerdo con los preceptos contenidos en esta ley y en las disposiciones que la complementen y desarrollen, y los coeficientes y las bonificaciones previstos por la ley y, en su caso, acordados por cada ayuntamiento y regulados en las ordenanzas fiscales respectivas",
+            "La resultante de aplicar las tarifas del impuesto junto el coeficiente de la cifra de negocios, de acuerdo con los preceptos contenidos en esta ley y en las disposiciones que la complementen y desarrollen, y los coeficientes y las bonificaciones previstos por la ley y, en su caso, acordados por cada ayuntamiento y regulados en las ordenanzas fiscales respectivas.",
+            "La resultante de aplicar las tarifas del impuesto, de acuerdo con los preceptos contenidos en esta ley y en las disposiciones que la complementen y desarrollen, y los coeficientes y las bonificaciones previstos por la ley y, en su caso, acordados por cada ayuntamiento y regulados en las ordenanzas fiscales respectivas.  "
+        ],
+        "answer_index": 0
+    },
+    {
+        "number": 17,
+        "question": "Las Ordenanzas fiscales podrán regular una bonificación referente a las viviendas de protección oficial en el Impuesto sobre Construcciones, Instalaciones y Obras:",
+        "options": [
+            "De hasta el 50 por ciento.",
+            "De hasta el 90 por ciento.",
+            "De hasta el 95 por ciento."
+        ],
+        "answer_index": 0
+    },
+    {
+        "number": 18,
+        "question": "El Impuesto sobre el Incremento de Valor de los Terrenos de Naturaleza Urbana:",
+        "options": [
+            "Es un tributo indirecto de carácter real.",
+            "Grava el incremento de valor que experimenten los terrenos de naturaleza rural y se ponga de manifiesto a consecuencia de la transmisión de la propiedad de los terrenos por cualquier título o de la constitución o transmisión de cualquier derecho real de goce, limitativo del dominio, sobre los referidos terrenos.",
+            "Ninguna es correcta. "
+        ],
+        "answer_index": 0
+    },
+    {
+        "number": 19,
+        "question": "Los sujetos pasivos del Impuesto sobre el Incremento de Valor de los Terrenos de Naturaleza Urbana deberán presentar declaración en el respectivo Ayuntamiento en los siguientes plazos:",
+        "options": [
+            "Cuando se trate de actos inter vivos, el plazo será de treinta días naturales, a contar desde la fecha en la que se produzca el devengo del impuesto.",
+            "Cuando se trate de actos inter vivos, el plazo será de treinta días hábiles, a contar desde la fecha en la que se produzca el devengo del impuesto.",
+            "Cuando se trate de actos por causa de muerte, el plazo será de tres meses prorrogables hasta seis meses a solicitud del sujeto pasivo. "
+        ],
+        "answer_index": 0
+    },
+    {
+        "number": 20,
+        "question": "En Word, ¿En qué zonas del documento se pueden numerar las páginas?",
+        "options": [
+            "En cualquier lugar.",
+            "Únicamente en los márgenes superior e inferior.",
+            "Únicamente en los márgenes superior, inferior y derecho."
+        ],
+        "answer_index": 0
+    },
+    {
+        "number": 21,
+        "question": "En los procedimientos iniciados a solicitud del interesado, cuando se produzca su paralización por causa imputable al mismo, la Administración le advertirá que se producirá la caducidad del procedimiento, transcurridos:",
+        "options": [
+            "Tres meses.",
+            "Cuatro meses.",
+            "Seis meses. "
+        ],
+        "answer_index": 0
+    },
+    {
+        "number": 22,
+        "question": "En virtud de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, los interesados sólo podrán solicitar el inicio de un procedimiento de responsabilidad patrimonial, cuando no haya prescrito su derecho a reclamar. Este derecho prescribe:",
+        "options": [
+            "A los seis meses de haberse producido el hecho o el acto que motive la indemnización o se manifieste su efecto lesivo.",
+            "A los tres meses de haberse producido el hecho o el acto que motive la indemnización o se manifieste su efecto lesivo.",
+            "Al año de haberse producido el hecho o el acto que motive la indemnización o se manifieste su efecto lesivo. "
+        ],
+        "answer_index": 0
+    },
+    {
+        "number": 23,
+        "question": "La ejecución forzosa por las Administraciones Públicas se efectuará, de conformidad con la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, por los siguientes medios:",
+        "options": [
+            "Apremio sobre el patrimonio y ejecución subsidiaria.",
+            "Apremio sobre el patrimonio y multa coercitiva.",
+            "Apremio sobre el patrimonio, ejecución subsidiaria, multa coercitiva y compulsión sobre las personas."
+        ],
+        "answer_index": 0
+    },
+    {
+        "number": 24,
+        "question": "La Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, reconoce que, la Administración aceptará de plano el desistimiento o la renuncia por los interesados, y declarará concluso el procedimiento salvo que, habiéndose personado en el mismo terceros interesados, instasen éstos su continuación en el plazo de:",
+        "options": [
+            "Dos meses desde que fueron notificados del desistimiento o renuncia.",
+            "Diez días desde que fueron notificados del desistimiento o renuncia.",
+            "Veinte días desde que fueron notificados del desistimiento o renuncia.  "
+        ],
+        "answer_index": 0
+    },
+    {
+        "number": 25,
+        "question": "¿En qué plazo se entiende desestimado el recurso extraordinario de revisión quedando expedita la vía jurisdiccional contencioso-administrativa?",
+        "options": [
+            "Transcurrido el plazo de un mes desde la interposición del recurso sin haberse dictado y notificado la resolución.",
+            "Transcurrido el plazo de dos meses desde la interposición del recurso sin haberse dictado y notificado la resolución.",
+            "Transcurrido el plazo de tres meses desde la interposición del recurso sin haberse dictado y notificado la resolución."
+        ],
+        "answer_index": 0
+    },
+    {
+        "number": 26,
+        "question": "De acuerdo con la literalidad de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, el órgano responsable de resolver el recurso podrá suspender, de oficio o a solicitud del recurrente, la ejecución del acto en uno de estos casos. Señale la opción correcta.",
+        "options": [
+            "Que la impugnación se fundamente en alguna de las causas de anulabilidad previstas en el artículo 48 de esta Ley.",
+            "Que la impugnación se fundamente en alguna de las causas de nulidad de pleno derecho previstas en el artículo 47.1 de esta Ley.",
+            "Que la impugnación se fundamente en alguna de las causas de anulabilidad previstas en el artículo 47.2 de esta Ley. "
+        ],
+        "answer_index": 0
+    },
+    {
+        "number": 27,
+        "question": "Según la Ordenanza de Licencias y Declaraciones Responsables Urbanísticas el acto administrativo reglado por el que, previa comprobación y validación de los parámetros urbanísticos y sectoriales que se han identificado como requisitos esenciales en el anexo VIII de la ordenanza, se autoriza la ejecución de las obras amparadas en la misma, sin perjuicio de la concesión posterior de la licencia urbanística que habilite para la ejecución del resto de la actuación, se denomina ",
+        "options": [
+            "Licencia urbanística. ",
+            "Licencia básica. ",
+            "Declaración responsable urbanística. "
+        ],
+        "answer_index": 0
+    },
+    {
+        "number": 28,
+        "question": "La Ordenanza de Licencias y Declaraciones Responsables Urbanísticas del Ayuntamiento de Madrid es de fecha: ",
+        "options": [
+            "26 de abril de 2022. ",
+            "14 de mayo de 2022. ",
+            "23 de diciembre de 2014."
+        ],
+        "answer_index": 0
+    },
+    {
+        "number": 29,
+        "question": "¿Qué es una tabla dinámica en Excel y cómo se activa esta opción?",
+        "options": [
+            "Una herramienta avanzada para calcular, resumir y analizar datos. Para activar esta herramienta, se debe acceder al menú Datos y seleccionar Tabla dinámica.",
+            "Una herramienta avanzada para calcular, resumir y analizar datos. Para activar esta herramienta, se debe acceder al menú Insertar y seleccionar Tabla dinámica.",
+            "Una herramienta avanzada para calcular, resumir y analizar datos. Para activar esta herramienta, se debe acceder al menú Fórmulas y seleccionar Tabla dinámica. "
+        ],
+        "answer_index": 0
+    },
+    {
+        "number": 30,
+        "question": "¿Cuál es la opción que permite Excel para eliminar filas duplicadas?",
+        "options": [
+            "Se pueden eliminar las filas duplicadas y, para ello, se debe acceder al menú Revisar – Quitar duplicados.",
+            "Se pueden eliminar las filas duplicadas y, para ello, se debe acceder al menú Datos – Quitar duplicados.",
+            "Excel no permite hacer esta operación de forma automática.  PREGUNTAS ADICIONALES "
+        ],
+        "answer_index": 0
+    },
+    {
+        "number": 31,
+        "question": "En Excel, se denomina rango:",
+        "options": [
+            "Al conjunto de celdas contiguas que se pueden ser seleccionadas para realizar una operación igual con todas ellas.",
+            "A la agrupación de filas y columnas seleccionadas de forma aleatoria para aplicar la fórmula.",
+            "Al grupo de funciones que, a través de las operaciones matemáticas, permiten obtener el resultado."
+        ],
+        "answer_index": 0
+    },
+    {
+        "number": 32,
+        "question": "Según la Ordenanza de Licencias y Declaraciones Responsables Urbanísticas del Ayuntamiento de Madrid la eficacia de las licencias para usos y construcciones urbanísticas de carácter provisional quedará condicionada en todo caso:",
+        "options": [
+            "A la inscripción en el Registro de la Propiedad del carácter precario de los usos, construcciones, edificaciones e instalaciones.",
+            "A la renuncia del titular de la licencia a cualquier tipo de indemnización por el incremento de valor que pudiera generar la licencia, así como a la prestación de la garantía por importe mínimo de sus costes de demolición y desmantelamiento.",
+            "Las dos son correctas "
+        ],
+        "answer_index": 0
+    },
+    {
+        "number": 33,
+        "question": "La base imponible del Impuesto de Bienes Inmuebles estará constituida por:",
+        "options": [
+            "El incremento del valor de los terrenos, puesto de manifiesto en el momento del devengo.",
+            "La titularidad sobre los bienes inmuebles rústicos y urbanos y sobre los inmuebles de características especiales.",
+            "El valor catastral de los bienes inmuebles."
+        ],
+        "answer_index": 0
+    }
+]
