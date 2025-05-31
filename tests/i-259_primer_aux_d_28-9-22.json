@@ -1,0 +1,732 @@
+[
+    {
+        "number": 1,
+        "question": "Según el artículo 23 de la Constitución española: ",
+        "options": [
+            "Los ciudadanos no tienen el derecho a participar en los asuntos públicos, directamente o por medio de representantes, libremente elegidos en elecciones periódicas por sufragio universal.",
+            "Los ciudadanos tienen el derecho a participar en los asuntos públicos, directamente o por medio de representantes, libremente elegidos en elecciones periódicas por sufragio universal.",
+            "Los ciudadanos tienen el derecho a participar en los asuntos públicos, solo por medio de representantes, libremente elegidos en elecciones periódicas por sufragio universal.  "
+        ],
+        "answer_index": 0
+    },
+    {
+        "number": 2,
+        "question": "Antes de dictar resolución, el órgano competente para resolver podrá decidir, mediante acuerdo motivado, la realización de las actuaciones complementarias indispensables para resolver el procedimiento, que, de acuerdo con lo establecido en el artículo 87 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, deberán practicarse: ",
+        "options": [
+            "En el plazo máximo de siete días.",
+            "En un plazo no superior a quince días.",
+            "En el plazo necesario para su realización, quedando suspendido el procedimiento hasta la terminación de las actuaciones complementarias.  "
+        ],
+        "answer_index": 0
+    },
+    {
+        "number": 3,
+        "question": "Según el artículo 31 del texto refundido de la Ley Reguladora de las Haciendas Locales, aprobado por Real Decreto Legislativo 2/2004, de 5 de marzo, la base imponible de las contribuciones especiales: ",
+        "options": [
+            "Está constituida, como máximo, por el 90 por ciento del coste que la entidad local soporte por la realización de las obras o por el establecimiento o ampliación de los servicios.",
+            "Está constituida, como máximo, por el 85 por ciento del coste que la entidad local soporte por la realización de las obras o por el establecimiento o ampliación de los servicios.",
+            "Está constituida, como máximo, por el 80 por ciento del coste que la entidad local soporte por la realización de las obras o por el establecimiento o ampliación de los servicios.  "
+        ],
+        "answer_index": 0
+    },
+    {
+        "number": 4,
+        "question": "La Junta de Gobierno del Ayuntamiento de Madrid, está formada únicamente: ",
+        "options": [
+            "Por el Alcalde y los concejales electos.",
+            "Por el Alcalde y los concejales electos y no electos.",
+            "Por el Alcalde, los concejales y el Secretario General del Pleno.  "
+        ],
+        "answer_index": 0
+    },
+    {
+        "number": 5,
+        "question": "Según la Ley de Capitalidad y Régimen Especial de Madrid, a la Tesorería le corresponde la gestión de los recursos y disponibilidades financieras del Ayuntamiento de Madrid y es un órgano: ",
+        "options": [
+            "Superior.",
+            "Directivo.",
+            "Ejecutivo.  "
+        ],
+        "answer_index": 0
+    },
+    {
+        "number": 6,
+        "question": "De conformidad con lo dispuesto en el artículo 66 del Reglamento Orgánico 6/2021, de 1 de junio, de los Distritos del Ayuntamiento de Madrid, el interventor delegado de cada Junta Municipal de Distrito será nombrado: ",
+        "options": [
+            "A propuesta de la Coordinación de Distrito entre funcionarios de carrera pertenecientes al Grupo A1.",
+            "A propuesta de la Intervención General entre funcionarios de carrera pertenecientes al Grupo A1.",
+            "A propuesta del Concejal Presidente del Distrito entre funcionarios de carrera pertenecientes al Grupo A1.           COMISIÓN PERMANENTE DE SELECCIÓN-ÓRGANO DE SELECCIÓN DE 259 PLAZAS DE AUXILIAR ADMINISTRATIVO DEL AYUNTAMIENTO DE MADRID    MODELO D                                                                                                                                                              Página 3 "
+        ],
+        "answer_index": 0
+    },
+    {
+        "number": 7,
+        "question": "Según el artículo 8.1 del texto refundido de la Ley del Estatuto Básico del Empleado Público, aprobado por el Real Decreto Legislativo 5/2015, de 30 de octubre: ",
+        "options": [
+            "Son empleados públicos quienes desempeñan funciones retribuidas en las Administraciones Públicas al servicio de los intereses generales.",
+            "Son empleados públicos quienes desempeñan funciones retribuidas en las Administraciones Públicas al servicio de los intereses generales, salvo el personal eventual.",
+            "Son empleados públicos quienes desempeñan funciones retribuidas en las Administraciones Públicas al servicio de los intereses generales, salvo el personal eventual y el personal laboral temporal.  "
+        ],
+        "answer_index": 0
+    },
+    {
+        "number": 8,
+        "question": "Conforme a lo establecido en el artículo 38 de la Ley 31/1995, de 8 de noviembre, de Prevención de Riesgos Laborales: en las reuniones del Comité de Seguridad y Salud podrán participar con voz, pero sin voto: ",
+        "options": [
+            "Trabajadores de la empresa que cuenten con una especial cualificación o información respecto de concretas cuestiones que se debatan en este órgano y técnicos en prevención ajenos a la empresa, siempre que así lo solicite alguna de las representaciones en el Comité.",
+            "Un representante de la mutualidad de previsión social que, en su caso, pueda verse afectada por las decisiones que se adopten en el seno de Comité de Seguridad y Salud.",
+            "Un representante de la Inspección de Trabajo y Seguridad Social como garante de que las medidas adoptadas y los medios utilizados son suficientes para garantizar la seguridad y la salud en el trabajo.  "
+        ],
+        "answer_index": 0
+    },
+    {
+        "number": 9,
+        "question": "De acuerdo con el artículo 4 de la Ordenanza de Transparencia de la Ciudad de Madrid, el principio de veracidad es uno de los principios básicos que regirán en la interpretación y aplicación de la misma, el cual supone que: ",
+        "options": [
+            "La información pública será veraz y cercana al ciudadano.",
+            "La información pública será veraz y fiable.",
+            "La información pública será veraz y exacta.  "
+        ],
+        "answer_index": 0
+    },
+    {
+        "number": 10,
+        "question": "De acuerdo con el artículo 24 de la Ordenanza de Atención a la Ciudadanía y Administración Electrónica, para su presentación, las sugerencias, reclamaciones y felicitaciones contendrán: ",
+        "options": [
+            "Los datos que permitan la comunicación con las personas que las han presentado, así como el objeto de la sugerencia, reclamación o felicitación.",
+            "Nombre y apellidos del interesado, lugar físico en que desea que se practique la notificación, hechos, razones y petición en que se concrete, con toda claridad, la solicitud, lugar, fecha, firma y órgano, centro o unidad administrativa a la que se dirige.",
+            "Nombre y apellidos del interesado, lugar físico en que desea que se practique la notificación, hechos, razones y petición en que se concrete, con toda claridad, la solicitud, lugar, fecha, firma y órgano, centro o unidad administrativa a la que se dirige y su correspondiente código de identificación.  "
+        ],
+        "answer_index": 0
+    },
+    {
+        "number": 11,
+        "question": "El artículo 11.2 de la Constitución española establece que: ",
+        "options": [
+            "Ningún español de origen podrá ser privado de su nacionalidad, salvo lo que puedan disponer la leyes penales militares en tiempos de guerra.",
+            "Ningún español de origen podrá ser privado de su nacionalidad.",
+            "Ningún español de origen podrá ser privado de su nacionalidad, salvo que sea condenado en firme por delito contra el Rey o contra la unidad de España.  "
+        ],
+        "answer_index": 0
+    },
+    {
+        "number": 12,
+        "question": "De acuerdo con lo establecido en la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, sobre el cómputo de plazos: ",
+        "options": [
+            "Los plazos expresados en días se contarán desde aquel en que tenga lugar la notificación o publicación del acto de que se trate, o desde aquel en que se produzca la estimación o la desestimación por silencio administrativo.",
+            "Si el plazo se fija en meses o años, concluirá el mismo día en que se produjo la notificación, publicación o silencio administrativo en el mes o el año de vencimiento.",
+            "Cuando un día fuese hábil en el municipio o Comunidad Autónoma en que residiese el interesado, e inhábil en la sede del órgano administrativo, o a la inversa, se considerará hábil en todo caso.   COMISIÓN PERMANENTE DE SELECCIÓN-ÓRGANO DE SELECCIÓN DE 259 PLAZAS DE AUXILIAR ADMINISTRATIVO DEL AYUNTAMIENTO DE MADRID    MODELO D                                                                                                                                                              Página 4   "
+        ],
+        "answer_index": 0
+    },
+    {
+        "number": 13,
+        "question": "De acuerdo con lo establecido en la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, respecto de la práctica de notificaciones en papel, cuando la notificación se practique en el domicilio del interesado, de no hallarse presente éste en el momento de entregarse la notificación, y nadie se hiciera cargo de la misma: ",
+        "options": [
+            "Se hará constar esta circunstancia en el expediente, junto con el día y la hora en que se intentó la notificación, dando por efectuado el trámite y siguiéndose el procedimiento.",
+            "Se hará constar esta circunstancia en el expediente, junto con el día y la hora en que se intentó la notificación, intento que se repetirá por una sola vez y en una hora distinta dentro de los tres días siguientes.",
+            "Se hará constar esta circunstancia en el expediente, junto con el día y la hora en que se intentó la notificación, procediendo a practicarla por medio de un anuncio publicado en el «Boletín Oficial del Estado».  "
+        ],
+        "answer_index": 0
+    },
+    {
+        "number": 14,
+        "question": "Según establece el artículo 21 de la Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local, son atribuciones del Alcalde: ",
+        "options": [
+            "Aprobar la oferta de empleo público.",
+            "La aceptación de la delegación de competencias hecha por otras Administraciones públicas.",
+            "El planteamiento de conflictos de competencias a otras entidades locales y demás Administraciones públicas.  "
+        ],
+        "answer_index": 0
+    },
+    {
+        "number": 15,
+        "question": "De acuerdo con el Decreto del Alcalde de 15 de junio de 2019 por el que se establece el número, denominación y competencias de las Áreas en las que se estructura la Administración del Ayuntamiento de Madrid, ¿cuántas Áreas de Gobierno existen en la actualidad?: ",
+        "options": [
+            "Ocho.",
+            "Nueve.",
+            "Diez.  "
+        ],
+        "answer_index": 0
+    },
+    {
+        "number": 16,
+        "question": "Conforme a la Constitución española el gobierno y administración de los municipios corresponde a: ",
+        "options": [
+            "A sus respectivos Ayuntamientos integrados por los Concejales o por los vecinos.",
+            "A sus respectivos Ayuntamientos integrados por los Alcaldes y los Concejales.",
+            "A sus respectivos Ayuntamientos integrados por los Concejales.  "
+        ],
+        "answer_index": 0
+    },
+    {
+        "number": 17,
+        "question": "El mandato de los miembros del Tribunal Económico Administrativo Municipal del Ayuntamiento de Madrid tendrá una duración de: ",
+        "options": [
+            "Tres años.",
+            "Cuatro años.",
+            "Cinco años.  "
+        ],
+        "answer_index": 0
+    },
+    {
+        "number": 18,
+        "question": "Según el artículo 43 de la Ley 22/2006, de 4 de julio, de Capitalidad y de Régimen Especial de Madrid, para acreditar el cumplimento de la obligación de aseguramiento del vehículo, el Ayuntamiento podrá crear y regular mediante la correspondiente Ordenanza: ",
+        "options": [
+            "Un certificado acreditativo para los que estén domiciliados en la Ciudad de Madrid.",
+            "Un distintivo adhesivo para los que estén domiciliados en la Ciudad de Madrid.",
+            "Un certificado acreditativo, que podrá, en su caso, ser sustituido por un distintivo adhesivo para los que estén domiciliados en la Ciudad de Madrid.         COMISIÓN PERMANENTE DE SELECCIÓN-ÓRGANO DE SELECCIÓN DE 259 PLAZAS DE AUXILIAR ADMINISTRATIVO DEL AYUNTAMIENTO DE MADRID    MODELO D                                                                                                                                                              Página 5 "
+        ],
+        "answer_index": 0
+    },
+    {
+        "number": 19,
+        "question": "Según el artículo 100 del texto refundido de la Ley Reguladora de las Haciendas Locales, aprobado por Real Decreto Legislativo 2/2004, de 5 de marzo, ¿cuál de estas afirmaciones es cierta?: ",
+        "options": [
+            "El Impuesto sobre Construcciones, Instalaciones y Obras es un tributo indirecto cuyo hecho imponible está constituido por la realización, dentro del término municipal, de cualquier construcción, instalación u obra, siempre que se haya obtenido la correspondiente licencia, o se haya presentado declaración responsable o comunicación previa.",
+            "El Impuesto sobre Construcciones, Instalaciones y Obras es un tributo directo cuyo hecho imponible está constituido por la realización, dentro del término municipal, de cualquier construcción, instalación u obra para la que se exija obtención de la correspondiente licencia de obras o urbanística, se haya obtenido o no dicha licencia, o para la que se exija presentación de declaración responsable o comunicación previa, siempre que la expedición de la licencia o la actividad de control corresponda al ayuntamiento de la imposición.",
+            "El Impuesto sobre Construcciones, Instalaciones y Obras es un tributo indirecto cuyo hecho imponible está constituido por la realización, dentro del término municipal, de cualquier construcción, instalación u obra para la que se exija obtención de la correspondiente licencia de obras o urbanística, se haya obtenido o no dicha licencia, o para la que se exija presentación de declaración responsable o comunicación previa, siempre que la expedición de la licencia o la actividad de control corresponda al ayuntamiento de la imposición.  "
+        ],
+        "answer_index": 0
+    },
+    {
+        "number": 20,
+        "question": "El artículo 21 de la Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local, establece que las atribuciones que la legislación del Estado o de las comunidades autónomas asignen al municipio y no atribuyan a otros órganos municipales, corresponderán a: ",
+        "options": [
+            "Pleno.",
+            "Junta de Gobierno Local.",
+            "Alcalde.  "
+        ],
+        "answer_index": 0
+    },
+    {
+        "number": 21,
+        "question": "De conformidad con lo dispuesto en el artículo 22 de la Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público, están sujetos a regulación armonizada los contratos de servicios cuyo valor estimado sea igual o superior a 139.000 euros: ",
+        "options": [
+            "Cuando los contratos hayan de adjudicarse por entidades del sector público distintas a la Administración General del Estado, sus Organismos Autónomos o las Entidades Gestoras y Servicios Comunes de la Seguridad Social.",
+            "Cuando se trate de contratos que tengan por objeto los servicios sociales y otros servicios específicos.",
+            "Cuando los contratos hayan de ser adjudicados por la Administración General del Estado, sus Organismos Autónomos, o las Entidades Gestoras y Servicios Comunes de la Seguridad Social.  "
+        ],
+        "answer_index": 0
+    },
+    {
+        "number": 22,
+        "question": "¿De cuantas especialidades o disciplinas preventivas consta la estructura del Servicio de Prevención del del Ayuntamiento de Madrid y sus Organismos Autónomos, según el artículo 46 Acuerdo-convenio sobre condiciones de trabajo comunes al personal funcionario y laboral?: ",
+        "options": [
+            "2 (“Medicina del Trabajo” y “Seguridad en el Trabajo”).",
+            "3 (“Medicina del Trabajo”, “Seguridad en el Trabajo” y “Ergonomía y Psicología aplicada”).",
+            "4 (“Medicina del el Trabajo”, “Seguridad en el Trabajo”, “Ergonomía y Psicología aplicada” e “Higiene Industrial”).  "
+        ],
+        "answer_index": 0
+    },
+    {
+        "number": 23,
+        "question": "El Comité de Seguridad y Salud del Ayuntamiento y sus Organismos Autónomos está formado por: ",
+        "options": [
+            "10 personas.",
+            "15 personas.",
+            "30 personas.  "
+        ],
+        "answer_index": 0
+    },
+    {
+        "number": 24,
+        "question": "Según el artículo 4 de la Ley 7/1985, de 2 de abril, reguladora de las Bases del Régimen Local: ",
+        "options": [
+            "Las entidades territoriales de ámbito inferior al municipal, podrán ser titulares de las potestades de ejecución forzosa y sancionadora, si le es atribuida expresamente por ley de la comunidad autónoma respectiva.",
+            "Las comarcas y las áreas metropolitanas, en ningún caso podrán ser titulares de las potestades de ejecución forzosa y sancionadora.",
+            "Los municipios, las provincias y las islas, podrán ser titulares de las potestades de ejecución forzosa y sancionadora,  si le es atribuida expresamente por ley de la comunidad autónoma respectiva.    COMISIÓN PERMANENTE DE SELECCIÓN-ÓRGANO DE SELECCIÓN DE 259 PLAZAS DE AUXILIAR ADMINISTRATIVO DEL AYUNTAMIENTO DE MADRID    MODELO D                                                                                                                                                              Página 6  "
+        ],
+        "answer_index": 0
+    },
+    {
+        "number": 25,
+        "question": "En la actualidad, ¿cuántas Áreas Delegadas existen en el Ayuntamiento de Madrid?: ",
+        "options": [
+            "Seis.",
+            "Siete.",
+            "Nueve.  "
+        ],
+        "answer_index": 0
+    },
+    {
+        "number": 26,
+        "question": "De acuerdo con el principio de imparcialidad recogido en el artículo 6 del Código de Buenas Prácticas Administrativas del Ayuntamiento de Madrid: ",
+        "options": [
+            "El Ayuntamiento de Madrid actuará de manera imparcial, justa y razonable en toda su actividad.",
+            "El Ayuntamiento de Madrid se abstendrá de intervenir cuando concurran las circunstancias señaladas en el artículo 23 de la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público.",
+            "El Ayuntamiento de Madrid actuará de manera imparcial sin incurrir en las causas de incompatibilidad previstas en la normativa vigente.  "
+        ],
+        "answer_index": 0
+    },
+    {
+        "number": 27,
+        "question": "Según el artículo 22 del texto refundido de la Ley Reguladora de las Haciendas Locales, aprobado por Real Decreto Legislativo 2/2004, de 5 de marzo: ",
+        "options": [
+            "Las tasas por la prestación de servicios no excluyen la exacción de contribuciones especiales por el establecimiento o ampliación de aquéllos.",
+            "Las tasas por la prestación de servicios excluyen la exacción de contribuciones especiales por el establecimiento o ampliación de aquéllos.",
+            "Las tasas por la prestación de servicios excluyen la exacción de precios públicos por la realización de actividades competencia de la administración local.  "
+        ],
+        "answer_index": 0
+    },
+    {
+        "number": 28,
+        "question": "Según el artículo 87 del texto refundido de la Ley Reguladora de las Haciendas Locales, aprobado por Real Decreto Legislativo 2/2004, de 5 de marzo, en relación con el Impuesto sobre Actividades Económicas, a los efectos de fijación del coeficiente de situación, el número de categorías de calles que debe establecer cada municipio: ",
+        "options": [
+            "No podrá ser inferior a 3 ni superior a 9.",
+            "No podrá ser inferior a 2 ni superior a 9.",
+            "No podrá ser inferior a 2 ni superior a 10.  "
+        ],
+        "answer_index": 0
+    },
+    {
+        "number": 29,
+        "question": "De acuerdo con lo establecido en el artículo 52 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, respecto de la convalidación de los actos, señale la respuesta correcta: ",
+        "options": [
+            "La Administración podrá convalidar los actos anulables, subsanando los vicios de que adolezcan.",
+            "El acto de convalidación de un acto administrativo producirá efecto desde el día siguiente a su fecha, salvo lo dispuesto para la retroactividad de los actos administrativos.",
+            "Si el vicio consistiera en incompetencia determinante de nulidad, la convalidación podrá realizarse por el órgano competente cuando sea superior jerárquico del que dictó el acto viciado.  "
+        ],
+        "answer_index": 0
+    },
+    {
+        "number": 30,
+        "question": "Conforme a la Constitución española ¿a quién le corresponde promover las condiciones para que la libertad y la igualdad del individuo y de los grupos en que se integra sean reales y efectivas?: ",
+        "options": [
+            "A los poderes públicos.",
+            "A los ciudadanos.",
+            "A los partidos políticos.          COMISIÓN PERMANENTE DE SELECCIÓN-ÓRGANO DE SELECCIÓN DE 259 PLAZAS DE AUXILIAR ADMINISTRATIVO DEL AYUNTAMIENTO DE MADRID    MODELO D                                                                                                                                                              Página 7 "
+        ],
+        "answer_index": 0
+    },
+    {
+        "number": 31,
+        "question": "Según el artículo 34 de la Ley 22/2006, de 4 de julio, de Capitalidad y de Régimen Especial de Madrid, cuál de estas afirmaciones es cierta: ",
+        "options": [
+            "La encomienda de gestión de determinadas actividades de carácter material, técnico o de servicios, derivadas de competencias administrativas de la Administración General del Estado y de la Comunidad de Madrid, de conformidad con lo dispuesto en la legislación estatal y autonómica que resulte de aplicación, requiere la aceptación por el Pleno.",
+            "La encomienda de gestión de determinadas actividades de carácter material, técnico o de servicios, derivadas de competencias administrativas de la Administración General del Estado y de la Comunidad de Madrid, de conformidad con lo dispuesto en la legislación estatal y autonómica que resulte de aplicación, se formaliza mediante convenio suscrito al efecto.",
+            "Ambas afirmaciones son correctas.  "
+        ],
+        "answer_index": 0
+    },
+    {
+        "number": 32,
+        "question": "Según el artículo 49 del Reglamento Orgánico del Pleno del Ayuntamiento de Madrid, el Pleno celebrará sesión extraordinaria cuando así lo decida el presidente o lo solicite al menos: ",
+        "options": [
+            "La tercera parte, al menos, del número legal de miembros de la Corporación.",
+            "La cuarta parte, al menos, del número legal de miembros de la Corporación.",
+            "La mayoría simple del número legal de miembros de la Corporación.  "
+        ],
+        "answer_index": 0
+    },
+    {
+        "number": 33,
+        "question": "La gestión, liquidación, inspección, recaudación y revisión de los actos tributarios municipales, así como la recaudación en período ejecutivo de los demás ingresos de derecho público del Ayuntamiento y de aquellos otros cuya gestión se le encomiende, le corresponde a: ",
+        "options": [
+            "La Tesorería Municipal.",
+            "El Organismo Autónomo Agencia Tributaria.",
+            "Al Área de Gobierno de Hacienda y Administración Pública.  "
+        ],
+        "answer_index": 0
+    },
+    {
+        "number": 34,
+        "question": "De conformidad con lo dispuesto en la Disposición adicional segunda de la Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público, corresponde a los Alcaldes y a los Presidentes de las Entidades Locales las competencias como órgano de contratación respecto de los contratos de obras, de suministro, de servicios, los contratos de concesión de obras, los contratos de concesión de servicios y los contratos administrativos especiales, cuando: ",
+        "options": [
+            "Su valor estimado supere el 10 por ciento de los recursos ordinarios del presupuesto y la cuantía de seis millones de euros, incluidos los de carácter plurianual cuando su duración sea inferior a cuatro años.",
+            "Su valor estimado no supere el 10 por ciento de los recursos ordinarios del presupuesto ni, en cualquier caso, la cuantía de seis millones de euros, incluidos los de carácter plurianual cuando su duración no sea superior a cuatro años.",
+            "Su valor estimado no supere el 10 por ciento de los recursos ordinarios del presupuesto ni, en cualquier caso, la cuantía de seis millones de euros, incluidos los de carácter plurianual cuando su duración sea superior a cuatro años.  "
+        ],
+        "answer_index": 0
+    },
+    {
+        "number": 35,
+        "question": "De conformidad con lo dispuesto en el artículo 61 del Reglamento Orgánico 6/2021, de 1 de junio, de los Distritos del Ayuntamiento de Madrid, el coordinador del distrito ostenta a todos los efectos el rango de: ",
+        "options": [
+            "Coordinador general.",
+            "Director general.",
+            "Gerente de distrito.  "
+        ],
+        "answer_index": 0
+    },
+    {
+        "number": 36,
+        "question": "Conforme a la Constitución española el gobierno y la administración autónoma de las provincias estarán encomendados a: ",
+        "options": [
+            "Las Diputaciones.",
+            "Corporaciones de carácter representativo.",
+            "Las dos respuestas anteriores son correctas.       COMISIÓN PERMANENTE DE SELECCIÓN-ÓRGANO DE SELECCIÓN DE 259 PLAZAS DE AUXILIAR ADMINISTRATIVO DEL AYUNTAMIENTO DE MADRID    MODELO D                                                                                                                                                              Página 8 "
+        ],
+        "answer_index": 0
+    },
+    {
+        "number": 37,
+        "question": "De acuerdo con lo que establece la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, el plazo máximo para dictar y notificar la resolución de un recurso de alzada será de: ",
+        "options": [
+            "Un mes.",
+            "Tres meses.",
+            "El que señale la normativa específica del procedimiento.  "
+        ],
+        "answer_index": 0
+    },
+    {
+        "number": 38,
+        "question": "Conforme a lo establecido en el artículo 11.1 del texto refundido de la Ley del Estatuto Básico del Empleado Público, aprobado por el Real Decreto Legislativo 5/2015, de 30 de octubre, el personal laboral, en función de la duración del contrato, podrá ser: ",
+        "options": [
+            "Fijo o temporal.",
+            "Fijo, por tiempo indefinido o temporal.",
+            "Fijo o por tiempo indefinido.  "
+        ],
+        "answer_index": 0
+    },
+    {
+        "number": 39,
+        "question": "Las previsiones relativas al registro electrónico de apoderamientos, registro electrónico, registro de empleados públicos habilitados, punto de acceso general electrónico de la Administración y archivo único electrónico de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, produjeron efectos: ",
+        "options": [
+            "A a los dos años de la entrada en vigor de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas.",
+            "A partir del día 2 de abril de 2021.",
+            "A partir del día 2 de octubre de 2020.  "
+        ],
+        "answer_index": 0
+    },
+    {
+        "number": 40,
+        "question": "Entre las funciones que prestan las Oficinas de Atención a la Ciudadanía de Línea Madrid recogidas en el artículo 15.1 de la Ordenanza de Atención a la Ciudadanía y Administración Electrónica de 26 de febrero de 2019 no se encuentra: ",
+        "options": [
+            "Actuar como oficinas de asistencia en materia de registro.",
+            "Actuar como punto de acreditación de Firma Electrónica de la Fábrica Nacional de Moneda y Timbre.",
+            "Facilitar el acceso de la ciudadanía a los medios electrónicos para relacionarse con la Administración.  "
+        ],
+        "answer_index": 0
+    },
+    {
+        "number": 41,
+        "question": "Para adquirir la condición de funcionario de carrera según el texto refundido de la Ley del Estatuto Básico del Empleado Público, aprobado por el Real Decreto Legislativo 5/2015, de 30 de octubre, es suficiente con: ",
+        "options": [
+            "Superar el proceso selectivo y ser nombrado por el órgano o autoridad competente.",
+            "Superar el proceso selectivo; ser nombrado por el órgano o autoridad competente y tomar posesión dentro del plazo que se establezca.",
+            "Superar el proceso selectivo; ser nombrado por el órgano o autoridad competente; efectuar el acto de acatamiento de la Constitución y, en su caso, del Estatuto de Autonomía correspondiente y del resto del ordenamiento jurídico y tomar posesión dentro del plazo que se establezca.  "
+        ],
+        "answer_index": 0
+    },
+    {
+        "number": 42,
+        "question": "De conformidad con lo dispuesto en el artículo 16 de la Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público, los contratos que tienen por objeto la adquisición, el arrendamiento financiero, o el arrendamiento, con o sin opción de compra, de productos o bienes muebles, se denomina: ",
+        "options": [
+            "Contrato de suministro.",
+            "Contrato de concesión de servicios públicos.",
+            "Contrato de concesión de obras.  "
+        ],
+        "answer_index": 0
+    },
+    {
+        "number": 43,
+        "question": "La Junta de Gobierno es el órgano ejecutivo de dirección política y administrativa, correspondiendo al Alcalde nombrar y separar libremente a sus miembros, no pudiendo exceder de: ",
+        "options": [
+            "Un tercio del número legal de miembros del Pleno, además del Alcalde.",
+            "Una cuarta parte del número legal de miembros del Pleno, además del Alcalde.",
+            "Ninguna normativa limita el número de miembros de la Junta de Gobierno.    COMISIÓN PERMANENTE DE SELECCIÓN-ÓRGANO DE SELECCIÓN DE 259 PLAZAS DE AUXILIAR ADMINISTRATIVO DEL AYUNTAMIENTO DE MADRID    MODELO D                                                                                                                                                              Página 9  "
+        ],
+        "answer_index": 0
+    },
+    {
+        "number": 44,
+        "question": "Según el artículo 29 del texto refundido de la Ley Reguladora de las Haciendas Locales, aprobado por Real Decreto Legislativo 2/2004, de 5 de marzo, tendrán la consideración de obras y servicios locales: ",
+        "options": [
+            "Los que realicen las entidades locales dentro del ámbito de sus competencias para cumplir los fines que les estén atribuidos, incluidos los que aquéllas ejecuten a título de dueños de sus bienes patrimoniales.",
+            "Los que realicen las entidades locales dentro del ámbito de sus competencias para cumplir los fines que les estén atribuidos, excepción hecha de los que aquéllas ejecuten a título de dueños de sus bienes patrimoniales.",
+            "Los que realicen otras entidades públicas, o los concesionarios de estos, sin aportaciones económicas de la entidad local.  "
+        ],
+        "answer_index": 0
+    },
+    {
+        "number": 45,
+        "question": "De acuerdo con lo establecido en el artículo 56 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, sobre medidas provisionales, señale la respuesta correcta: ",
+        "options": [
+            "Iniciado el procedimiento, el órgano administrativo competente para resolver, podrá adoptar, de oficio o a instancia de parte y de forma motivada, las medidas provisionales que estime oportunas para asegurar la eficacia de la resolución que pudiera recaer, cuando se den las circunstancias y de acuerdo con los principios legalmente previstos.",
+            "En caso de haber sido adoptadas, las medidas provisionales deberán ser confirmadas, modificadas o levantadas en el acuerdo de iniciación del procedimiento, que deberá efectuarse dentro de los quince días siguientes a su adopción, el cual no podrá ser objeto de recurso alguno.",
+            "Las medidas provisionales adoptadas antes de la iniciación del procedimiento, quedarán sin efecto si no se inicia el procedimiento dentro de los diez siguientes a su adopción, o cuando el acuerdo de iniciación no contenga un pronunciamiento expreso acerca de las mismas.  "
+        ],
+        "answer_index": 0
+    },
+    {
+        "number": 46,
+        "question": "Según determina el artículo 122 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, si un acto administrativo, susceptible de impugnación mediante recurso de alzada, no fuera expreso, el solicitante y otros posibles interesados podrán interponer dicho recurso: ",
+        "options": [
+            "En el plazo de un mes a partir del día siguiente a aquél en que, de acuerdo con su normativa específica, se produzcan los efectos del silencio administrativo.",
+            "En cualquier momento a partir del día siguiente a aquél en que, de acuerdo con su normativa específica, se produzcan los efectos del silencio administrativo.",
+            "Contra los actos no expresos no puede interponerse recurso de alzada.  "
+        ],
+        "answer_index": 0
+    },
+    {
+        "number": 47,
+        "question": "De conformidad con lo dispuesto en el artículo 128.2 de la Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local, ¿a quién corresponde la creación de los distritos y su regulación, en los términos y con el alcance previstos en el artículo 123?: ",
+        "options": [
+            "Al Pleno de la Corporación.",
+            "Al Concejal Presidente del Distrito correspondiente.",
+            "A la Junta de Gobierno Local.  "
+        ],
+        "answer_index": 0
+    },
+    {
+        "number": 48,
+        "question": "De conformidad con lo dispuesto en el artículo 123 de la Ley 7/1985, de 2 de abril, reguladora de las Bases del Régimen Local, que mayoría se requerirá para la aprobación y modificación de las ordenanzas y reglamentos municipales: ",
+        "options": [
+            "Mayoría absoluta del número legal de sus miembros.",
+            "Mayoría de dos tercios del número legal de sus miembros.",
+            "Ninguna de las dos respuestas anteriores es correcta.            COMISIÓN PERMANENTE DE SELECCIÓN-ÓRGANO DE SELECCIÓN DE 259 PLAZAS DE AUXILIAR ADMINISTRATIVO DEL AYUNTAMIENTO DE MADRID    MODELO D                                                                                                                                                              Página 10 "
+        ],
+        "answer_index": 0
+    },
+    {
+        "number": 49,
+        "question": "De acuerdo con el artículo 4 de la Ordenanza de Transparencia de la Ciudad de Madrid, el principio de no discriminación tecnológica es uno de los principios básicos que regirán en la interpretación y aplicación de la misma, el cual supone que: ",
+        "options": [
+            "La información será publicada o facilitada en formatos que permitan su reutilización salvo que no pueda ponerse a disposición en un formato de esta naturaleza al requerir un esfuerzo inasumible con los medios disponibles.",
+            "Los sujetos comprendidos dentro del ámbito de aplicación deberán hacer efectivo el acceso a la información pública con independencia del medio de acceso. Se impulsará la adopción de estándares tecnológicos abiertos y neutrales.",
+            "Los sujetos comprendidos dentro del ámbito de aplicación deberán hacer efectivo el acceso a la información pública, para lo cual la información será publicada en el Portal de Gobierno Abierto y será de fácil acceso y localización de forma intuitiva para los usuarios.  "
+        ],
+        "answer_index": 0
+    },
+    {
+        "number": 50,
+        "question": "¿Qué órgano del Ayuntamiento de Madrid supervisa la actividad de la Administración Municipal y da cuenta al Pleno, mediante un informe anual, de las quejas presentadas y de las deficiencias observadas en el funcionamiento de los servicios municipales, con especificación de las sugerencias o recomendaciones no admitidas por la Administración Municipal?: ",
+        "options": [
+            "La Comisión Especial de Sugerencias y Reclamaciones.",
+            "El Consejo Social de la Ciudad.",
+            "El Observatorio de la Ciudad.  "
+        ],
+        "answer_index": 0
+    },
+    {
+        "number": 51,
+        "question": "¿Cuál es el objeto de la Ley Orgánica 3/2007, de 22 de marzo para la igualdad efectiva de mujeres y hombres, conforme a lo señalado en su artículo 1?: ",
+        "options": [
+            "Hacer efectivo el derecho de igualdad de trato y de oportunidades entre mujeres y hombres, en particular mediante la eliminación de la discriminación de la mujer, sea cual fuere su circunstancia o condición, en cualesquiera de los ámbitos de la vida y, singularmente, en las esferas política, civil, laboral, económica, social y cultural, para, en el desarrollo de los artículos 9.2 y 14 de la Constitución, alcanzar una sociedad más democrática, más justa y más solidaria.",
+            "Hacer efectivo el derecho de igualdad de trato y de oportunidades entre mujeres y hombres en el ámbito de las Administraciones Públicas, para, en el desarrollo de los artículos 9.2 y 14 de la Constitución, alcanzar una sociedad más democrática, más justa y más solidaria.",
+            "Establecer la igualdad como principio informador del ordenamiento jurídico, para, en el desarrollo de los artículos 9.2 y 14 de la Constitución, alcanzar una sociedad más democrática, más justa y más solidaria.  "
+        ],
+        "answer_index": 0
+    },
+    {
+        "number": 52,
+        "question": "El principio rector de Participación del «I Plan de Igualdad entre Mujeres y Hombres del Ayuntamiento de Madrid y sus Organismos Autónomos» supone que: ",
+        "options": [
+            "Que han participado instituciones autonómicas y estatales en su elaboración, pero no en su seguimiento.",
+            "Que ha participado el personal municipal a través de los sindicatos en la elaboración e implementación.",
+            "Que han participado todos los interlocutores sociales en su elaboración.  "
+        ],
+        "answer_index": 0
+    },
+    {
+        "number": 53,
+        "question": "De conformidad con lo dispuesto en el artículo 64 del Reglamento Orgánico 6/2021, de 1 de junio, de los Distritos del Ayuntamiento de Madrid, el secretario del distrito ejerce las funciones que se determinen en las relaciones de puestos de trabajo, y en particular, las siguientes: ",
+        "options": [
+            "Dirección, coordinación y seguimiento de la actividad de las unidades orgánicas en las que se estructure la secretaría del distrito.",
+            "Control jurídico-administrativo de cuantas propuestas de acuerdo o resolución se eleven a la Junta Municipal del Distrito, al concejal presidente o al coordinador del distrito.",
+            "Ambas respuestas son correctas.  "
+        ],
+        "answer_index": 0
+    },
+    {
+        "number": 54,
+        "question": "Según lo dispuesto en el Reglamento Orgánico de Gobierno y Administración de 31 de mayo de 2004, el Ayuntamiento de Madrid se organiza y actúa, con sometimiento pleno a la Ley y al Derecho, de acuerdo con los principios de: ",
+        "options": [
+            "Eficacia, descentralización funcional, desconcentración, coordinación y servicio al ciudadano.",
+            "Eficacia, jerarquía, descentralización, desconcentración y coordinación.",
+            "Eficacia, desconcentración, descentralización funcional y cooperación.     COMISIÓN PERMANENTE DE SELECCIÓN-ÓRGANO DE SELECCIÓN DE 259 PLAZAS DE AUXILIAR ADMINISTRATIVO DEL AYUNTAMIENTO DE MADRID    MODELO D                                                                                                                                                              Página 11 "
+        ],
+        "answer_index": 0
+    },
+    {
+        "number": 55,
+        "question": "La institución del Defensor del Pueblo se regulará por: ",
+        "options": [
+            "Ley ordinaria.",
+            "Ley orgánica.",
+            "Decreto ley o Decreto legislativo.  "
+        ],
+        "answer_index": 0
+    },
+    {
+        "number": 56,
+        "question": "Conforme a la Constitución española la provincia está determinada: ",
+        "options": [
+            "Por la agrupación de municipios.",
+            "Por la agrupación de mancomunidades.",
+            "Por la agrupación de municipios, comarcas y áreas metropolitanas.  "
+        ],
+        "answer_index": 0
+    },
+    {
+        "number": 57,
+        "question": "Conforme al artículo 2.2 de la Ley Orgánica 3/2007, de 22 de marzo, para la igualdad efectiva de mujeres y hombres, las obligaciones establecidas en esta ley serán de aplicación a: ",
+        "options": [
+            "Sólo a las personas físicas.",
+            "Sólo a las personas jurídicas.",
+            "A las personas físicas y jurídicas.  "
+        ],
+        "answer_index": 0
+    },
+    {
+        "number": 58,
+        "question": "De conformidad con el artículo 16.4.a) de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, los documentos que los interesados dirijan a los órganos de las Administraciones Públicas podrán presentarse: ",
+        "options": [
+            "En el registro electrónico de la Administración u Organismo al que se dirijan, así como en los restantes registros electrónicos de cualquiera de los sujetos a los que se refiere el artículo 2.1. de la citada ley.",
+            "En el registro electrónico de la Administración u Organismo al que se dirijan, así como en los restantes registros electrónicos de cualquiera de los sujetos a los que se refiere el artículo 2.2. de la citada ley.",
+            "En el registro electrónico de la Administración u Organismo al que se dirijan.  "
+        ],
+        "answer_index": 0
+    },
+    {
+        "number": 59,
+        "question": "Una de las medidas del «I Plan de Igualdad entre Mujeres y Hombres del Ayuntamiento de Madrid y sus Organismos Autónomos» es: “Procurar el equilibrio entre los sexos en la concesión de distinciones”. ¿En qué eje se encuentra dicha medida?: ",
+        "options": [
+            "Eje referido a “Las Personas”.",
+            "Eje referido a “La Institución”.",
+            "Eje referido a “La Comunicación”.  "
+        ],
+        "answer_index": 0
+    },
+    {
+        "number": 60,
+        "question": "La Tesorería Municipal del Ayuntamiento de Madrid se encuentra, en la actualidad, adscrita al Área de Gobierno de: ",
+        "options": [
+            "Hacienda y Personal.",
+            "Economía, Innovación y Empleo.",
+            "Vicealcaldía.  "
+        ],
+        "answer_index": 0
+    },
+    {
+        "number": 61,
+        "question": "En la actualidad ¿cuántos concejales tiene el Pleno del Ayuntamiento de Madrid?: ",
+        "options": [
+            "55.",
+            "56.",
+            "57.          COMISIÓN PERMANENTE DE SELECCIÓN-ÓRGANO DE SELECCIÓN DE 259 PLAZAS DE AUXILIAR ADMINISTRATIVO DEL AYUNTAMIENTO DE MADRID    MODELO D                                                                                                                                                              Página 12 "
+        ],
+        "answer_index": 0
+    },
+    {
+        "number": 62,
+        "question": "Según el artículo 40 de la Ley 22/2006, de 4 de julio, de Capitalidad y de Régimen Especial de Madrid, las competencias de seguridad vial del Ayuntamiento de Madrid comprenderán en todo caso: ",
+        "options": [
+            "La autorización de pruebas deportivas cuando discurran en parte de su recorrido por el término municipal de Madrid.",
+            "Emitir el informe, que será preceptivo, para la autorización de pruebas deportivas cuando discurran en parte de su recorrido por el término municipal de Madrid.",
+            "La vigilancia y protección de las pruebas deportivas que discurran por el término municipal de Madrid, con independencia de a quien corresponda su autorización.  "
+        ],
+        "answer_index": 0
+    },
+    {
+        "number": 63,
+        "question": "Según el artículo 61 del texto refundido de la Ley Reguladora de las Haciendas Locales, aprobado por Real Decreto Legislativo 2/2004, de 5 de marzo, a los efectos del Impuesto sobre Bienes Inmuebles, tendrán la consideración de bienes inmuebles rústicos: ",
+        "options": [
+            "Los definidos como tales en las normas reguladoras del Catastro Inmobiliario.",
+            "Los definidos como tales en la propia Ley Reguladora de las Haciendas Locales.",
+            "Los definidos como tales en la Ley de Bases de Régimen Local.  "
+        ],
+        "answer_index": 0
+    },
+    {
+        "number": 64,
+        "question": "De acuerdo con lo establecido en el artículo 35 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale cuál de los siguientes actos administrativos tienen que ser motivados: ",
+        "options": [
+            "Los actos que se separen del dictamen de órganos consultivos.",
+            "Los acuerdos de realización de actuaciones complementarias.",
+            "Las dos respuestas anteriores son correctas.  "
+        ],
+        "answer_index": 0
+    },
+    {
+        "number": 65,
+        "question": "De acuerdo con lo establecido en el artículo 23 de la Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local, señale la respuesta correcta: ",
+        "options": [
+            "Los Tenientes de Alcalde sustituyen, por el orden de su nombramiento y en los casos de vacante, ausencia o enfermedad, al Alcalde, siendo libremente designados y removidos por acuerdo del Pleno de entre los miembros de la Junta de Gobierno Local y, donde ésta no exista, de entre los Concejales.",
+            "Corresponde a la Junta de Gobierno Local las atribuciones que el Alcalde u otro órgano municipal le delegue o le atribuyan las leyes.",
+            "El Alcalde podrá realizar delegaciones especiales para cometidos específicos exclusivamente en favor de los concejales miembros de la Junta de Gobierno Local.  "
+        ],
+        "answer_index": 0
+    },
+    {
+        "number": 66,
+        "question": "En la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, el derecho a conocer, en cualquier momento, el estado de la tramitación de los procedimientos en los que tengan la condición de interesados; el sentido del silencio administrativo que corresponda, en caso de que la Administración no dicte ni notifique resolución expresa en plazo; el órgano competente para su instrucción, en su caso, y resolución; y los actos de trámite dictados, se encuentra recogido en: ",
+        "options": [
+            "El artículo 53 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas.",
+            "El artículo 13 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas.",
+            "El artículo 23 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas.  "
+        ],
+        "answer_index": 0
+    },
+    {
+        "number": 67,
+        "question": "De acuerdo con lo establecido en el artículo 27 de la Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local, el Estado y las Comunidades Autónomas, en el ejercicio de sus respectivas competencias, podrán delegar en los Municipios el ejercicio de sus competencias. En relación con el ejercicio de esta delegación, señale la respuesta correcta: ",
+        "options": [
+            "La delegación deberá determinar el alcance, contenido, condiciones y duración de ésta, que no podrá ser inferior a cuatro años.",
+            "Podrá ser objeto de la citada delegación, entre otras, la competencia para la creación, mantenimiento y gestión de las escuelas infantiles de educación de titularidad pública de primer ciclo de educación infantil.",
+            "La efectividad de la delegación no requerirá su aceptación por el Municipio interesado.   COMISIÓN PERMANENTE DE SELECCIÓN-ÓRGANO DE SELECCIÓN DE 259 PLAZAS DE AUXILIAR ADMINISTRATIVO DEL AYUNTAMIENTO DE MADRID    MODELO D                                                                                                                                                              Página 13  "
+        ],
+        "answer_index": 0
+    },
+    {
+        "number": 68,
+        "question": "De acuerdo con el artículo 14 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, las personas físicas podrán elegir en todo momento si se comunican con las Administraciones Públicas para el ejercicio de sus derechos y obligaciones a través de medios electrónicos o no, salvo que estén obligadas a relacionarse a través de medios electrónicos con las Administraciones Públicas. Asimismo indica que: ",
+        "options": [
+            "El medio elegido por la persona para comunicarse con las Administraciones Públicas podrá ser modificado de oficio en cualquier momento.",
+            "El medio elegido por la persona para comunicarse con las Administraciones Públicas podrá ser modificado previa resolución y con audiencia al interesado en cualquier momento.",
+            "El medio elegido por la persona para comunicarse con las Administraciones Públicas podrá ser modificado por aquella en cualquier momento.  "
+        ],
+        "answer_index": 0
+    },
+    {
+        "number": 69,
+        "question": "De conformidad con el artículo 12 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, las Administraciones Públicas asistirán en el uso de medios electrónicos a los interesados no incluidos en los apartados 2 y 3 del artículo 14 que así lo soliciten: ",
+        "options": [
+            "De forma previa a la entrada al Punto de Acceso General electrónico de la Administración.",
+            "A través de entidades privadas colaboradoras.",
+            "Especialmente en lo referente a la identificación y firma electrónica, presentación de solicitudes a través del registro electrónico general y obtención de copias auténticas.  "
+        ],
+        "answer_index": 0
+    },
+    {
+        "number": 70,
+        "question": "Según el artículo 26 del texto refundido de la Ley Reguladora de las Haciendas Locales, aprobado por Real Decreto Legislativo 2/2004, de 5 de marzo, las tasas podrán devengarse, según la naturaleza de su hecho imponible y conforme determine la respectiva ordenanza fiscal: ",
+        "options": [
+            "Cuando se inicie el uso privativo o el aprovechamiento especial, o cuando se inicie la prestación del servicio o la realización de la actividad, aunque en ambos casos podrá exigirse el depósito previo de su importe total o parcial.",
+            "Cuando se presente la solicitud que inicie la actuación o el expediente, que no se realizará o tramitará sin que se haya efectuado el pago correspondiente.",
+            "Las dos opciones anteriores son correctas.  "
+        ],
+        "answer_index": 0
+    },
+    {
+        "number": 71,
+        "question": "Las competencias de los Delegados de Prevención, reconocidas en la Ley 31/1995, de 8 de noviembre de Prevención de Riesgos Laborales: ",
+        "options": [
+            "Podrán ser ejercidas por órganos específicos creados en el ámbito de la negociación colectiva o mediante acuerdos.",
+            "No podrán ser ejercidas por órganos específicos creados en el ámbito de la negociación colectiva o mediante acuerdos.",
+            "Podrán ser ejercidas por el Comité de Empresa en aquellas que tengan más de un centro de trabajo a nivel provincial o autonómico y cuenten con más de 10.000 trabajadores.  "
+        ],
+        "answer_index": 0
+    },
+    {
+        "number": 72,
+        "question": "De conformidad con lo dispuesto en el artículo 103 del Reglamento Orgánico del Pleno del Ayuntamiento de Madrid, la iniciativa para la aprobación de normas municipales presentadas por la Junta de Gobierno Local, se tramitarán como: ",
+        "options": [
+            "Proyectos.",
+            "Proposiciones.",
+            "Decretos.  "
+        ],
+        "answer_index": 0
+    },
+    {
+        "number": 73,
+        "question": "Según el artículo 68. 3 del texto refundido de la Ley Reguladora de las Haciendas Locales, aprobado por Real Decreto Legislativo 2/2004, de 5 de marzo, en los supuestos de reducción de la base imponible del Impuesto sobre Bienes Inmuebles: ",
+        "options": [
+            "El coeficiente reductor tendrá el valor de 0,8 el primer año de su aplicación e irá disminuyendo en 0,1 anualmente hasta su desaparición.",
+            "El coeficiente reductor tendrá el valor de 1 el primer año de su aplicación e irá disminuyendo en 0,1 anualmente hasta su desaparición.",
+            "El coeficiente reductor tendrá el valor de 0,9 el primer año de su aplicación e irá disminuyendo en 0,1 anualmente hasta su desaparición. CPS-ÓRGANO DE SELECCIÓN DE LAS PRUEBAS SELECTIVAS 259 PLAZAS de Auxiliar Administrativo AYUNTAMIENTO DE MADRID      PLANTILLA RESPUESTAS AUXILIAR ADMINISTRATIVO PRIMER EJERCICIO MODELO D  PREGUNTAS RESPUESTA PREGUNTAS RESPUESTA PREGUNTAS RESPUESTA 1 b 31 c 61 c 2 b 32 b 62 a 3 a 33 b 63 a 4 a 34 b 64 c 5 b 35 b 65 b 6 b 36 c 66 a 7 a 37 b 67 b 8 a 38 b 68 c 9 b 39 b 69 c 10 a 40 b 70 c 11 b 41 c RESERVA RESPUESTA 12 b 42 a 71 a 13 b 43 a 72 a 14 a 44 b 73 c 15 b 45 a 16 b 46 b 17 b 47 a 18 b 48 c 19 c 49 b 20 c 50 a 21 c 51 a 22 c 52 b 23 c 53 c 24 a 54 a 25 a 55 b 26 a 56 a 27 a 57 c 28 b 58 a 29 a 59 b 30 a 60 a "
+        ],
+        "answer_index": 0
+    }
+]
